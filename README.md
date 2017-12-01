@@ -20,7 +20,7 @@ Coding Environment- Windows 8.1,Eclipse-neon,JAVA 7
 | Day |                                                Challenge                                                |                                                                                   Solution                                                                                                                                |
 |:---:|:-------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |  0  | [Hello, World](https://www.hackerrank.com/challenges/30-hello-world)                                    | [Day0HelloWorld.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Tutorials/30DaysOfCode/src/main/java/com/hackerrank/solutions/thirtydaysofcode/Day0HelloWorld.java)                |
-|  1  | [Data Types](https://www.hackerrank.com/challenges/30-data-types)                                       | [Day1DataTypes.java] (https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Tutorials/30DaysOfCode/src/main/java/com/hackerrank/solutions/thirtydaysofcode/Day1DataTypes.java)                 |
+|  1  | [Data Types](https://www.hackerrank.com/challenges/30-data-types)                                       | [Day1DataTypes.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Tutorials/30DaysOfCode/src/main/java/com/hackerrank/solutions/thirtydaysofcode/Day1DataTypes.java)                 |
 
 
 # Java
