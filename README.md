@@ -2,7 +2,7 @@
     <a href="https://www.hackerrank.com/rshaghoulian">
         <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
-    <br>HackerRank problems solutions
+    <br>This repository contains HackerRank problems solutions
 </p>
 
 * [30 Days of Code](#30-days-of-code)
@@ -12,7 +12,7 @@
 * [Data Structures](#data-structures)
 * [General Programming](#general-programming)
 
-Technologies used- JAVA 7
+Coding Environment- Windows 8.1,Eclipse-neon,JAVA 7
 
 
 # 30 Days of Code
