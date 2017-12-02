@@ -7,11 +7,8 @@
 
 <p align="right">
     <a href="https://www.facebook.com/">
-        <img height=85 src="https://facebookbrand.com/wp-content/themes/fb-branding/prj-fb-branding/assets/images/fb-art.png">
+        <img height=85 src="https://www.seeklogo.net/wp-content/uploads/2016/09/facebook-icon-preview-1.png">
     </a>
-</p>
-
-<p align="right">
     <a href="https://www.linkedin.com/in/kanahaiya-gupta-a9894746/">
         <img height=85 src="https://www.shareicon.net/download/2017/06/30/888065_logo_512x512.png">
     </a>
