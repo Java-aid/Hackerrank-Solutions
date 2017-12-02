@@ -1,14 +1,14 @@
+<p align="right">
 	connect me on:
     <a href="https://www.facebook.com/kanhaiyag2/">
-        <img align="right" height=85 src="https://www.seeklogo.net/wp-content/uploads/2016/09/facebook-icon-preview-1.png">
+        <img height=85 src="https://www.seeklogo.net/wp-content/uploads/2016/09/facebook-icon-preview-1.png">
     </a>
     <a href="https://www.linkedin.com/in/kanahaiya-gupta-a9894746/">
         <img height=85 src="https://www.shareicon.net/download/2017/06/30/888065_logo_512x512.png">
     </a>
 
-<p align="center">
     <a href="https://www.hackerrank.com/Kanahaiya">
-        <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+        <img align="center" height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
     <br>This repository contains HackerRank problems solutions
 </p>
