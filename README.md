@@ -1,5 +1,4 @@
 <p align="right">
-	connect me on:
     <a href="https://www.facebook.com/kanhaiyag2/">
         <img height=80 src="https://www.seeklogo.net/wp-content/uploads/2016/09/facebook-icon-preview-1.png">
     </a>
