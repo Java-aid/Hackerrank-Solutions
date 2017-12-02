@@ -2,8 +2,22 @@
     <a href="https://www.hackerrank.com/Kanahaiya">
         <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
-    <br>This repository contains Hackerrank problems solutions
+    <br>This repository contains HackerRank problems solutions
 </p>
+
+<p align="right">
+    <a href="https://www.facebook.com/">
+        <img height=85 src="https://facebookbrand.com/wp-content/themes/fb-branding/prj-fb-branding/assets/images/fb-art.png">
+    </a>
+</p>
+
+<p align="right">
+    <a href="https://www.linkedin.com/in/kanahaiya-gupta-a9894746/">
+        <img height=85 src="https://www.shareicon.net/download/2017/06/30/888065_logo_512x512.png">
+    </a>
+</p>
+
+
 
 * [30 Days of Code](#30-days-of-code)
 * [Java](#java)
@@ -12,7 +26,7 @@
 * [Data Structures](#data-structures)
 * [General Programming](#general-programming)
 
-Coding environment used- Windows 8.1/ Eclipse neon/ JAVA 7
+Coding environment used- Windows 8.1, Eclipse neon, JAVA 7
 
 
 # 30 Days of Code
