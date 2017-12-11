@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.hackerrank.solutions.languages.java.introduction;
+package com.hackerrank.solutions.languages.java.strings;
 
 import java.util.ArrayList;
 import java.util.Collections;
