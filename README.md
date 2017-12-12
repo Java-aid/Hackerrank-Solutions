@@ -93,6 +93,7 @@ Coding environment used- Windows 8.1, Eclipse neon, JAVA 7
 |          BigInteger   	  | [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem)           				    			 | [JavaBigDecimal.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Languages/Java/src/main/java/com/hackerrank/solutions/languages/java/strings/JavaBigDecimal.java)        			 				      |
 |          BigInteger   	  | [Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem)           		    			 | [JavaPrimalityTest.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Languages/Java/src/main/java/com/hackerrank/solutions/languages/java/strings/JavaPrimalityTest.java)        			 		      |
 |       Data Structures   	  | [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem)           	    			 | [Java1DArray.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Languages/Java/src/main/java/com/hackerrank/solutions/languages/java/strings/Java1DArray.java)        			  						  |
+|       Data Structures   	  | [Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem)           	   					 			 | [Java2DArray.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Languages/Java/src/main/java/com/hackerrank/solutions/languages/java/strings/Java2DArray.java)        			  						  |
 
 
 # Algorithms
