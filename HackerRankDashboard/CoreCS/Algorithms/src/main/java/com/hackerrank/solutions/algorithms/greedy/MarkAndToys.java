@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.hackerrank.solutions.datastructures.greedy;
+package com.hackerrank.solutions.algorithms.greedy;
 
 import java.util.Arrays;
 import java.util.Scanner;
