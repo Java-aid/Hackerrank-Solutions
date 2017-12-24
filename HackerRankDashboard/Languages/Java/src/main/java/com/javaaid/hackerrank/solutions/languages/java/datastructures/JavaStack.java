@@ -39,5 +39,6 @@ public class JavaStack {
 			String s = in.next();
 			System.out.println(matchParenthisis(s));
 		}
+		in.close();
 	}
 }

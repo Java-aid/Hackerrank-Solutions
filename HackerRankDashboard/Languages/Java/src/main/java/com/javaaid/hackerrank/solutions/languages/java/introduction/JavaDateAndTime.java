@@ -19,5 +19,6 @@ public class JavaDateAndTime {
 		int year = in.nextInt();
 		LocalDate dt = LocalDate.of(year, month, day);
 		System.out.println(dt.getDayOfWeek());
+		in.close();
 	}
 }

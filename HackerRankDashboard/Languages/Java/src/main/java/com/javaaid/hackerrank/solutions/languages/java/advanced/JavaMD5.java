@@ -16,6 +16,7 @@ public class JavaMD5 {
 		Scanner sc = new Scanner(System.in);
 		String s = sc.next();
 		System.out.println(getMD5(s));
+		sc.close();
 	}
 
 	private static String getMD5(String s) {

@@ -12,7 +12,7 @@ import java.util.Stack;
  */
 public class SimpleTextEditor {
 	public static void main(String[] args) {
-		Stack<String> st = new Stack();
+		Stack<String> st = new Stack<String>();
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
 		String str = "";
@@ -46,6 +46,7 @@ public class SimpleTextEditor {
 
 			}
 		}
+		sc.close();
 	}
 
 }

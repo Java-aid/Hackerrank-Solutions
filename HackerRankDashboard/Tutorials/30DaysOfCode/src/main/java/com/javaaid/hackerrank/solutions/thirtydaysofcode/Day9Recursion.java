@@ -22,5 +22,6 @@ public class Day9Recursion {
 		Scanner sc = new Scanner(System.in);
 		int i = sc.nextInt();
 		System.out.println(factorial(i));
+		sc.close();
 	}
 }

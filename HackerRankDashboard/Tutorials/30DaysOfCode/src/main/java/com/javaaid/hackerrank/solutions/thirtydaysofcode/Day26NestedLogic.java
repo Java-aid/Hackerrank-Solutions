@@ -14,6 +14,7 @@ public class Day26NestedLogic {
 		Scanner sc = new Scanner(System.in);
 		String actualDate = sc.nextLine();
 		String expectedDate = sc.nextLine();
+		sc.close();
 		int fine = 0;
 		String[] dateDetail = actualDate.split(" ");
 		String[] eDetail = expectedDate.split(" ");

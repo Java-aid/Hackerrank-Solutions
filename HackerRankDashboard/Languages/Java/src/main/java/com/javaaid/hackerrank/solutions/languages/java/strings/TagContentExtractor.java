@@ -33,5 +33,6 @@ public class TagContentExtractor {
 				System.out.println("None");
 			testCases--;
 		}
+		in.close();
 	}
 }

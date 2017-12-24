@@ -147,18 +147,19 @@ public class JavaVisitorPattern {
 	static ArrayList<Integer>[] edges;
 	// each edges[i] holds arrayList of all nodes connnected to node i
 
+	@SuppressWarnings("unchecked")
 	public static Tree solve() {
 		int n;
 		TreeNode root;
-		Scanner scanner = new Scanner(System.in);
+		Scanner sc = new Scanner(System.in);
 
-		n = scanner.nextInt();
+		n = sc.nextInt();
 		values = new int[n];
 		colors = new Color[n];
 		for (int i = 0; i < n; i++)
-			values[i] = scanner.nextInt();
+			values[i] = sc.nextInt();
 		for (int i = 0; i < n; i++)
-			colors[i] = scanner.nextInt() == 0 ? Color.RED : Color.GREEN;
+			colors[i] = sc.nextInt() == 0 ? Color.RED : Color.GREEN;
 
 		// initialize arraylists
 		edges = (ArrayList<Integer>[]) new ArrayList[n + 1];
@@ -167,12 +168,12 @@ public class JavaVisitorPattern {
 
 		// read the n- 1 edges and store them in both directions
 		for (int i = 0; i < n - 1; i++) {
-			int edgeNode1 = scanner.nextInt();
-			int edgeNode2 = scanner.nextInt();
+			int edgeNode1 = sc.nextInt();
+			int edgeNode2 = sc.nextInt();
 			edges[edgeNode1].add(edgeNode2);
 			edges[edgeNode2].add(edgeNode1);
 		}
-
+		sc.close();
 		root = new TreeNode(values[0], colors[0], 0); // root is always internal
 		addChildren(root, 1);
 		return root;

@@ -30,8 +30,6 @@ public class ClimbingTheLeaderboard {
 			scores[i] = Integer.MIN_VALUE;
 		}
 		int m = in.nextInt();
-		int l = scores.length;
-		int[] alice = new int[m];
 		for (int alice_i = 0; alice_i < m; alice_i++) {
 			int tmp = in.nextInt();
 			if (tmp > scores[0]) {
@@ -43,6 +41,7 @@ public class ClimbingTheLeaderboard {
 
 			}
 		}
+		in.close();
 	}
 
 	private static int binarySearch(int[] a, int key) {

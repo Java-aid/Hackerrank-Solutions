@@ -40,6 +40,7 @@ public class InsertionSortPart1 {
 			ar[i] = in.nextInt();
 		}
 		insertIntoSorted(ar);
+		in.close();
 	}
 
 	private static void printArray(int[] ar) {

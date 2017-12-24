@@ -35,7 +35,7 @@ public class SparseArrays {
 			System.out.println(counter);
 			counter = 0;
 		}
-
+		sc.close();
 	}
 
 }

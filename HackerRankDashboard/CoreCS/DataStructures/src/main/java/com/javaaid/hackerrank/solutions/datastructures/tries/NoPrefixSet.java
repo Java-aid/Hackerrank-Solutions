@@ -62,5 +62,6 @@ public class NoPrefixSet {
 
 		}
 		System.out.println(!found ? "GOOD SET" : "");
+		sc.close();
 	}
 }

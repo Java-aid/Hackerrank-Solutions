@@ -17,6 +17,7 @@ public class JavaSHA256 {
 		Scanner sc = new Scanner(System.in);
 		String s = sc.next();
 		System.out.println(getSHAHEX(s));
+		sc.close();
 	}
 
 	private static String getSHAHEX(String s) {

@@ -28,5 +28,6 @@ public class TheLoveLetterMystery {
 			int result = theLoveLetterMystery(s);
 			System.out.println(result);
 		}
+		in.close();
 	}
 }

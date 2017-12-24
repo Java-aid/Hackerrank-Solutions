@@ -33,6 +33,7 @@ public class QueueUsingTwoStacks {
 			}
 
 		}
+		sc.close();
 	}
 
 }

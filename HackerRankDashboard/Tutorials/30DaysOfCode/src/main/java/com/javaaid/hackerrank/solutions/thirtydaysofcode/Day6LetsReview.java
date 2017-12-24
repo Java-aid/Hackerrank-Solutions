@@ -30,6 +30,6 @@ public class Day6LetsReview {
 			System.out.println(str1 + " " + str2);
 			str1 = str2 = "";
 		}
-
+		sc.close();
 	}
 }

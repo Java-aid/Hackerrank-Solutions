@@ -13,7 +13,8 @@ public class Day10BinaryNumbers {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		int n = in.nextInt();
-		int r = n, i = 0, counter = 0, maxOne = 0;
+		in.close();
+		int r = n, counter = 0, maxOne = 0;
 		String s = "";
 		while (n > 0) {
 

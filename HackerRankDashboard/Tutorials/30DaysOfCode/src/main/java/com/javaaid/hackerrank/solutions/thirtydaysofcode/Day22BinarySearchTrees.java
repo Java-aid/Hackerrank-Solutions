@@ -47,6 +47,7 @@ public class Day22BinarySearchTrees {
 			int data = sc.nextInt();
 			root = insert(root, data);
 		}
+		sc.close();
 		int height = getHeight(root);
 		System.out.println(height);
 	}

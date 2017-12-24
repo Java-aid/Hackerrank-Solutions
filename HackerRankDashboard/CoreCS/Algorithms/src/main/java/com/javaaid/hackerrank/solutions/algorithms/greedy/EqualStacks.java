@@ -29,9 +29,9 @@ public class EqualStacks {
 			h3[h3_i] = in.nextInt();
 		}
 
-		Stack<Long> st1 = new Stack();
-		Stack<Long> st2 = new Stack();
-		Stack<Long> st3 = new Stack();
+		Stack<Long> st1 = new Stack<Long>();
+		Stack<Long> st2 = new Stack<Long>();
+		Stack<Long> st3 = new Stack<Long>();
 		long sum1 = 0, sum2 = 0, sum3 = 0;
 		for (int i = h1.length - 1; i >= 0; i--) {
 			sum1 += h1[i];
@@ -80,6 +80,6 @@ public class EqualStacks {
 		if (!found) {
 			System.out.println("0");
 		}
-
+		in.close();
 	}
 }

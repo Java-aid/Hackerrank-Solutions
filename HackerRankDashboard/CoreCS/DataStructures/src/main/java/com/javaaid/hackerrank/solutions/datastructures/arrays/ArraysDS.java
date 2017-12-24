@@ -19,5 +19,6 @@ public class ArraysDS {
 		for (int arr_i = n - 1; arr_i >= 0; arr_i--) {
 			System.out.print(arr[arr_i] + " ");
 		}
+		in.close();
 	}
 }

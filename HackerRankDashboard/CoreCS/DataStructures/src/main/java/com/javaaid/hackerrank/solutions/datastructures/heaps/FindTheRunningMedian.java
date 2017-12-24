@@ -29,6 +29,7 @@ public class FindTheRunningMedian {
 			meadian = getMedian(lowers, highers);
 			System.out.println(meadian);
 		}
+		sc.close();
 	}
 
 	private static double getMedian(PriorityQueue<Integer> lowers, PriorityQueue<Integer> highers) {

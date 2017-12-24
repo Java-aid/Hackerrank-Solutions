@@ -22,5 +22,6 @@ public class SolveMeFirst {
         int sum;
         sum = solveMeFirst(a, b);
         System.out.println(sum);
+        in.close();
    }
 }

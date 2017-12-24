@@ -61,6 +61,6 @@ public class JavaBitSet {
 			System.out.println(b1.cardinality() + " " + b2.cardinality());
 
 		}
-
+		sc.close();
 	}
 }

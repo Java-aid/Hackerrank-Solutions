@@ -27,6 +27,7 @@ public class BigSorting {
 			}
 		});
 		printArray(unsorted);
+		in.close();
 	}
 
 	private static int compareStrings(String s1, String s2) {

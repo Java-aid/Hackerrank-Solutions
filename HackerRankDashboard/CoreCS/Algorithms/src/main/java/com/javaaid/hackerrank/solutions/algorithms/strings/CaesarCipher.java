@@ -36,5 +36,6 @@ public class CaesarCipher {
 			}
 		}
 		System.out.println(passwd);
+		sc.close();
 	}
 }

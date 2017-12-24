@@ -18,5 +18,6 @@ public class Staircase {
 			System.out.printf("%" + (n) + "s \n", str);
 			str += "#";
 		}
+		in.close();
 	}
 }

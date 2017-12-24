@@ -37,6 +37,7 @@ public class LargestRectangle {
 		}
 
 		System.out.println(maxArea);
+		sc.close();
 	}
 
 }

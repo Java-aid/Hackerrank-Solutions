@@ -17,6 +17,7 @@ public class Day20Sorting {
 		for (int a_i = 0; a_i < n; a_i++) {
 			a[a_i] = in.nextInt();
 		}
+		in.close();
 		int count = 0;
 		boolean swapped = true;
 		for (int j = a.length - 1; (j >= 0 && swapped); j--) {

@@ -12,7 +12,7 @@ import java.util.Stack;
  */
 public class BalancedBrackets {
 	private static String matchParenthisis(String str) {
-		Stack<Character> st = new Stack();
+		Stack<Character> st = new Stack<Character>();
 		char[] ch = str.toCharArray();
 		for (char c : ch) {
 
@@ -48,5 +48,6 @@ public class BalancedBrackets {
 			String s = in.next();
 			System.out.println(matchParenthisis(s));
 		}
+		in.close();
 	}
 }

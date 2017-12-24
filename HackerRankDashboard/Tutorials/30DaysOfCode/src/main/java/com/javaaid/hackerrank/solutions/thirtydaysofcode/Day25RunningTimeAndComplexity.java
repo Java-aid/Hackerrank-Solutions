@@ -30,5 +30,6 @@ public class Day25RunningTimeAndComplexity {
 			String result = isPrime(sc.nextInt()) ? "Prime" : "Not prime";
 			System.out.println(result);
 		}
+		sc.close();
 	}
 }

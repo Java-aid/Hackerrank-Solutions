@@ -21,5 +21,6 @@ public class CountingSort1 {
 		for (int j = 0; j < N; j++) {
 			System.out.print(a[j] + " ");
 		}
+		sc.close();
 	}
 }

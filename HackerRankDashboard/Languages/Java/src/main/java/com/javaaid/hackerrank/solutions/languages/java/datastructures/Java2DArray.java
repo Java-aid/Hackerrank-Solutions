@@ -31,5 +31,6 @@ public class Java2DArray {
 			}
 		}
 		System.out.println(maxSum);
+		in.close();
 	}
 }

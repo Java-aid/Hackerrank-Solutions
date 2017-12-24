@@ -18,6 +18,6 @@ public class SimpleArraySum {
 			sum = sum + sc.nextInt();
 		}
 		System.out.println(sum);
-
+		sc.close();
 	}
 }

@@ -16,6 +16,7 @@ public class SuperReducedString {
 		String s = sc.next();
 		String value = getReducedString(s);
 		System.out.println(value == "" ? "Empty String" : value);
+		sc.close();
 	}
 
 	private static String getReducedString(String s) {

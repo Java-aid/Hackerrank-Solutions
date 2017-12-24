@@ -23,6 +23,8 @@ public class JavaExceptionHandlingTryCatch {
 			System.out.println(e);
 		} catch (InputMismatchException e) {
 			System.out.println(e.getClass().getName());
+		} finally {
+			sc.close();
 		}
 	}
 }

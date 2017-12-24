@@ -58,7 +58,7 @@ public class ComponentsInAGraph {
 	}
 
 	public void printMinMax(int[] a) {
-		HashMap<Integer, Integer> hmap = new HashMap();
+		HashMap<Integer, Integer> hmap = new HashMap<Integer, Integer>();
 		for (int i = 0; i < a.length; i++) {
 
 			if (hmap.containsKey(a[i])) {
@@ -98,7 +98,7 @@ public class ComponentsInAGraph {
 
 		}
 		c.printMinMax(c.id);
-
+		sc.close();
 	}
 
 }

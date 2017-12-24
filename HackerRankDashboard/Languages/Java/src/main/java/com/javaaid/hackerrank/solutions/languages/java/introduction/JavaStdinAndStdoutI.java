@@ -14,7 +14,7 @@ public class JavaStdinAndStdoutI {
 		int a = sc.nextInt();
 		int b = sc.nextInt();
 		int c = sc.nextInt();
-
+		sc.close();
 		System.out.println(a);
 		System.out.println(b);
 		System.out.println(c);

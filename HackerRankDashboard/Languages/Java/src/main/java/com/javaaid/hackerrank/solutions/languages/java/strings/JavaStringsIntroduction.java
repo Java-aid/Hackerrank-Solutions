@@ -38,6 +38,7 @@ public class JavaStringsIntroduction {
 
 		System.out.println((A.toUpperCase()).charAt(0) + A.substring(1, A.length()) + " " + (B.toUpperCase()).charAt(0)
 				+ B.substring(1, B.length()));
+		sc.close();
 	}
 
 }

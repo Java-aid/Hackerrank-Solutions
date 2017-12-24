@@ -24,6 +24,6 @@ public class JavaSubstringComparisons {
 		Collections.sort(list);
 		System.out.println(list.get(0));
 		System.out.println(list.get(list.size() - 1));
-
+		sc.close();
 	}
 }

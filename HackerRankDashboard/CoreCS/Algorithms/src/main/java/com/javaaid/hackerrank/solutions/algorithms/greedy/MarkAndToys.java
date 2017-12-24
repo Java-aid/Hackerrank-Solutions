@@ -30,5 +30,6 @@ public class MarkAndToys {
 			}
 		}
 		System.out.println(toyCount);
+		in.close();
 	}
 }

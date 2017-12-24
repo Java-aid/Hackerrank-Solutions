@@ -13,14 +13,14 @@ import java.util.Set;
  */
 public class JavaHashset {
 	public static void main(String[] args) {
-		Scanner s = new Scanner(System.in);
-		int t = s.nextInt();
+		Scanner sc = new Scanner(System.in);
+		int t = sc.nextInt();
 		String[] pair_left = new String[t];
 		String[] pair_right = new String[t];
 
 		for (int i = 0; i < t; i++) {
-			pair_left[i] = s.next();
-			pair_right[i] = s.next();
+			pair_left[i] = sc.next();
+			pair_right[i] = sc.next();
 		}
 
 		// Write your code here
@@ -30,6 +30,6 @@ public class JavaHashset {
 			System.out.println(set.size());
 
 		}
-
+		sc.close();
 	}
 }

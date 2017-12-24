@@ -68,5 +68,6 @@ public class JavaAnnotations {
 			}
 			testCases--;
 		}
+		in.close();
 	}
 }

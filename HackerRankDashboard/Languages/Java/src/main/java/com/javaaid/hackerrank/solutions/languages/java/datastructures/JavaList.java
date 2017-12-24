@@ -34,6 +34,6 @@ public class JavaList {
 		for (Integer integer : L) {
 			System.out.print(integer + " ");
 		}
-
+		sc.close();
 	}
 }

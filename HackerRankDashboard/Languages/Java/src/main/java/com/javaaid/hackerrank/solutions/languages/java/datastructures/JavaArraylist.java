@@ -16,10 +16,9 @@ public class JavaArraylist {
 		Scanner sc = new Scanner(System.in);
 		List<ArrayList<Integer>> listOfList = new ArrayList<ArrayList<Integer>>();
 		int n = sc.nextInt();
-		int a[] = new int[n];
 		for (int i = 0; i < n; i++) {
 			int m = sc.nextInt();
-			ArrayList list = new ArrayList<Integer>();
+			ArrayList<Integer> list = new ArrayList<Integer>();
 			for (int j = 0; j < m; j++) {
 				list.add(sc.nextInt());
 			}
@@ -38,5 +37,6 @@ public class JavaArraylist {
 			}
 
 		}
+		sc.close();
 	}
 }

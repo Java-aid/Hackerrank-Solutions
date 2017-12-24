@@ -49,7 +49,7 @@ public class LuckBalance {
 		Scanner sc = new Scanner(System.in);
 		int N = sc.nextInt();
 		int K = sc.nextInt();
-		int win = 0, lose = 0;
+		int win = 0;
 		int a[] = new int[N];
 		int sum = 0;
 		for (int i = 0; i < N; i++) {
@@ -69,5 +69,6 @@ public class LuckBalance {
 		}
 
 		System.out.println(sum - 2 * s2);
+		sc.close();
 	}
 }

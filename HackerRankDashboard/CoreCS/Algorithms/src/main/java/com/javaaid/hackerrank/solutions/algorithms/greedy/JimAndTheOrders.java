@@ -29,7 +29,7 @@ public class JimAndTheOrders {
 		}
 
 		Set<Entry<Integer, Integer>> set = hmap.entrySet();
-		List<Entry<Integer, Integer>> list = new ArrayList(set);
+		List<Entry<Integer, Integer>> list = new ArrayList<Entry<Integer, Integer>>(set);
 		Collections.sort(list, new Comparator<Entry<Integer, Integer>>() {
 			public int compare(Entry<Integer, Integer> e1, Entry<Integer, Integer> e2) {
 				return e1.getValue().compareTo(e2.getValue());
@@ -39,5 +39,6 @@ public class JimAndTheOrders {
 		for (Entry<Integer, Integer> i : list) {
 			System.out.print(i.getKey() + " ");
 		}
+		sc.close();
 	}
 }

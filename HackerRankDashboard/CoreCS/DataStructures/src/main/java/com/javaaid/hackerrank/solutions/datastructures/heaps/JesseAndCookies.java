@@ -42,6 +42,7 @@ public class JesseAndCookies {
 
 		}
 		System.out.println(found ? count : -1);
+		sc.close();
 	}
 
 	private static int getMin() {

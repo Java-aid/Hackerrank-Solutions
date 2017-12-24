@@ -25,7 +25,7 @@ public class Day23BSTLevelOrderTraversal {
 	static void levelOrder(Node root) {
 		if (root == null)
 			System.out.println("nothing to display");
-		Queue q = new LinkedList<Node>();
+		Queue<Node> q = new LinkedList<Node>();
 		q.add(root);
 		while (!q.isEmpty()) {
 			Node node = (Node) q.poll();
@@ -62,6 +62,7 @@ public class Day23BSTLevelOrderTraversal {
 			int data = sc.nextInt();
 			root = insert(root, data);
 		}
+		sc.close();
 		levelOrder(root);
 	}
 }

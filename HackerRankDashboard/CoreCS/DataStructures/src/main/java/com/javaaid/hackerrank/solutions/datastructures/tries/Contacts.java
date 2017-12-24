@@ -24,6 +24,7 @@ public class Contacts {
 				System.out.println(tst.keyWithPrefix(name).size());
 			}
 		}
+		sc.close();
 	}
 
 }

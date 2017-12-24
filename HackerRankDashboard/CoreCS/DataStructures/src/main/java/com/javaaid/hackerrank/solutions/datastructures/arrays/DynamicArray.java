@@ -43,6 +43,7 @@ public class DynamicArray {
 			}
 
 		}
+		sc.close();
 	}
 
 	private void getValue(int x, int y, int N) {

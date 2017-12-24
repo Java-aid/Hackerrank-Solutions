@@ -18,6 +18,6 @@ public class JavaOutputFormatting {
 			System.out.printf("%-15s%03d\n", s1, x);
 		}
 		System.out.println("================================");
-
+		sc.close();
 	}
 }

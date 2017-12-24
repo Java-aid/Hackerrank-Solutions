@@ -51,5 +51,6 @@ public class Gemstones {
 			}
 			int result = gemstones(arr);
 			System.out.println(result);
+			in.close();
 		}
 	}

@@ -14,6 +14,7 @@ public class SumvsXOR {
 		Scanner sc = new Scanner(System.in);
 		long n = sc.nextLong();
 		System.out.println((long) Math.pow(2, getNumberOfOnes(n)));
+		sc.close();
 	}
 
 	private static long getNumberOfOnes(long n) {

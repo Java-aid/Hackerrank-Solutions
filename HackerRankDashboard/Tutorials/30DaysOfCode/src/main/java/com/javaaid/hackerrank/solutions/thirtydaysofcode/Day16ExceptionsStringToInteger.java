@@ -13,6 +13,7 @@ public class Day16ExceptionsStringToInteger {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		String S = in.next();
+		in.close();
 		int i = 0;
 		try {
 			i = Integer.parseInt(S);

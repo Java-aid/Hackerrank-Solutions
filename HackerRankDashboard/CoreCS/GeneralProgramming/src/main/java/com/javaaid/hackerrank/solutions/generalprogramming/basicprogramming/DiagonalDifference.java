@@ -23,5 +23,6 @@ public class DiagonalDifference {
 			rightSum += a[i][n - 1 - i];
 		}
 		System.out.println(Math.abs(leftSum - rightSum));
+		in.close();
 	}
 }

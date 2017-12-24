@@ -26,6 +26,6 @@ public class JavaIfElse {
 
 		}
 		System.out.println(ans);
-
+		sc.close();
 	}
 }

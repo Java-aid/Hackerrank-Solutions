@@ -45,6 +45,6 @@ public class MaximumElement {
 				break;
 			}
 		}
-
+		sc.close();
 	}
 }

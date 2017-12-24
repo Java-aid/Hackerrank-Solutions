@@ -29,6 +29,6 @@ class MotorCycle extends BiCycle {
 
 public class JavaMethodOverriding2SuperKeyword {
 	public static void main(String[] args) {
-		MotorCycle M = new MotorCycle();
+	 new MotorCycle();
 	}
 }

@@ -22,6 +22,7 @@ public class Pangrams {
 			}
 		}
 		System.out.println(found ? "pangram" : "not pangram");
+		sc.close();
 	}
 
 }

@@ -52,10 +52,10 @@ public class JavaFactoryPattern {
 
 	public static void main(String args[]) {
 		Do_Not_Terminate.forbidExit();
-
+		Scanner sc = null;
 		try {
 
-			Scanner sc = new Scanner(System.in);
+			sc = new Scanner(System.in);
 			// creating the factory
 			FoodFactory foodFactory = new FoodFactory();
 
@@ -66,6 +66,8 @@ public class JavaFactoryPattern {
 			System.out.println(food.getType());
 		} catch (Do_Not_Terminate.ExitTrappedException e) {
 			System.out.println("Unsuccessful Termination!!");
+		} finally {
+			sc.close();
 		}
 	}
 

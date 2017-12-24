@@ -38,6 +38,6 @@ public class MaximizingXOR {
 
 		res = maxXor(_l, _r);
 		System.out.println(res);
-
+		in.close();
 	}
 }

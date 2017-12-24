@@ -81,5 +81,6 @@ public class MergingCommunities {
 
 			}
 		}
+		sc.close();
 	}
 }

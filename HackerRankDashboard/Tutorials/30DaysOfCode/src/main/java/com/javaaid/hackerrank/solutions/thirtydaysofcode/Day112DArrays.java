@@ -19,6 +19,7 @@ public class Day112DArrays {
 				arr[i][j] = in.nextInt();
 			}
 		}
+		in.close();
 		int sum = 0, maxSum = Integer.MIN_VALUE;
 		for (int i = 0; i < 6; i++) {
 			for (int j = 0; j < 6; j++) {

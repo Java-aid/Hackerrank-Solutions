@@ -61,6 +61,6 @@ public class MinimumAbsoluteDifferenceInAnArray {
 			}
 		}
 		System.out.println(min);
-
+		in.close();
 	}
 }

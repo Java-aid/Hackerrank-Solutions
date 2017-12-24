@@ -45,5 +45,6 @@ public class BalancedBrackets {
 			String s = in.next();
 			System.out.println(matchParenthisis(s));
 		}
+		in.close();
 	}
 }

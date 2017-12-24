@@ -34,7 +34,7 @@ public class QHEAP1 {
 
 			}
 		}
-
+		sc.close();
 	}
 
 	private static void delete(int y) {

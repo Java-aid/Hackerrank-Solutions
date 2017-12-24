@@ -40,5 +40,6 @@ public class ClosestNumbers {
 			}
 		}
 		System.out.println(result);
+		sc.close();
 	}
 }

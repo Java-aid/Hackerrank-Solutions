@@ -20,7 +20,7 @@ public class CompareTheTriplets {
 		int b2 = in.nextInt();
 		int aScore = 0;
 		int bScore = 0;
-
+		in.close();
 		if (a0 != b0) {
 			int temp = a0 < b0 ? bScore++ : aScore++;
 		}
@@ -34,6 +34,6 @@ public class CompareTheTriplets {
 			int temp = a2 < b2 ? bScore++ : aScore++;
 		}
 		System.out.println(aScore + " " + bScore);
-
+		
 	}
 }

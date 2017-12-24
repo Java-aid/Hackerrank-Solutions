@@ -16,12 +16,12 @@ public class LeftRotation {
 		 * class should be named Solution.
 		 */
 
-		Scanner s = new Scanner(System.in);
-		int arraySize = s.nextInt();
-		int key = s.nextInt();
+		Scanner sc = new Scanner(System.in);
+		int arraySize = sc.nextInt();
+		int key = sc.nextInt();
 		int a[] = new int[arraySize];
 		for (int i = 0; i < a.length; i++) {
-			a[i] = s.nextInt();
+			a[i] = sc.nextInt();
 		}
 
 		leftRotate(a, 0, key - 1);
@@ -31,7 +31,7 @@ public class LeftRotation {
 		for (int i = 0; i < a.length; i++) {
 			System.out.print(a[i] + " ");
 		}
-
+		sc.close();
 	}
 
 	static void leftRotate(int a[], int start, int end) {

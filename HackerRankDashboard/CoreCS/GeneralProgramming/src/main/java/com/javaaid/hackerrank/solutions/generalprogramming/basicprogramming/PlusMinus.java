@@ -30,6 +30,6 @@ public class PlusMinus {
 		System.out.printf("%1.6f \n", countPositive / n);
 		System.out.printf("%1.6f \n", countNegetive / n);
 		System.out.printf("%1.6f \n", countZero / n);
-
+		in.close();
 	}
 }

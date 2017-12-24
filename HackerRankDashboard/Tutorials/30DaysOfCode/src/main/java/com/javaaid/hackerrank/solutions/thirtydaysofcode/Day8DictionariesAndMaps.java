@@ -13,7 +13,7 @@ import java.util.Scanner;
 public class Day8DictionariesAndMaps {
 	public static void main(String[] argh) {
 		Scanner in = new Scanner(System.in);
-		HashMap<String, Integer> hmap = new HashMap();
+		HashMap<String, Integer> hmap = new HashMap<String, Integer>();
 		int n = in.nextInt();
 		for (int i = 0; i < n; i++) {
 			String name = in.next();

@@ -34,6 +34,6 @@ public class RunningTimeOfAlgorithms {
 			a[i] = sc.nextInt();
 		}
 		System.out.println(shiftCount(a));
-
+		sc.close();
 	}
 }

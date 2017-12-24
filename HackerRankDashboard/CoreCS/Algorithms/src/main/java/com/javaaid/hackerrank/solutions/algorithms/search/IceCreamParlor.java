@@ -35,5 +35,6 @@ public class IceCreamParlor {
 				}
 			}
 		}
+		sc.close();
 	}
 }

@@ -29,6 +29,7 @@ public class DavisStaircase {
 				System.out.println(printNoOfStaircases(n, a));
 			}
 		}
+		in.close();
 	}
 
 	/**

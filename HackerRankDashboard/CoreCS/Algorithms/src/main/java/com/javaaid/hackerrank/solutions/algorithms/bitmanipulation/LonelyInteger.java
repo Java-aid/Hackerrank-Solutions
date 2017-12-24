@@ -37,6 +37,6 @@ public class LonelyInteger {
 
 		res = lonelyinteger(_a);
 		System.out.println(res);
-
+		in.close();
 	}
 }

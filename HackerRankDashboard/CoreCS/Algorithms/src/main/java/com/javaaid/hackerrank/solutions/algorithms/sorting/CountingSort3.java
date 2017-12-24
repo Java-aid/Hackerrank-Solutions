@@ -33,7 +33,7 @@ public class CountingSort3 {
 		for (int j = 0; j < 100; j++) {
 			System.out.print(b[j] + " ");
 		}
-
+		sc.close();
 	}
 
 }

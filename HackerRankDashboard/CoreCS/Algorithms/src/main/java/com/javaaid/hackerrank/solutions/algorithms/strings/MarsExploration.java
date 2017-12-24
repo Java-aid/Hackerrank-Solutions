@@ -27,5 +27,6 @@ public class MarsExploration {
 			}
 		}
 		System.out.println(count);
+		sc.close();
 	}
 }

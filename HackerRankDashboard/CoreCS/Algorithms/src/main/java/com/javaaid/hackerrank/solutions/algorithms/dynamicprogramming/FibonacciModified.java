@@ -24,5 +24,6 @@ public class FibonacciModified {
 			t2 = sum;
 		}
 		System.out.println(sum);
+		sc.close();
 	}
 }

@@ -31,5 +31,6 @@ public class JavaMap {
 				System.out.println("Not found");
 			}
 		}
+		in.close();
 	}
 }

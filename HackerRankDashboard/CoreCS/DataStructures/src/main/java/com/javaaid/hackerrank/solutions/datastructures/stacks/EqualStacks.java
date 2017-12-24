@@ -80,6 +80,6 @@ public class EqualStacks {
 		if (!found) {
 			System.out.println("0");
 		}
-
+		in.close();
 	}
 }

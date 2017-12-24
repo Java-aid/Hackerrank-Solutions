@@ -20,6 +20,7 @@ public class CamelCase {
 			}
 		}
 		System.out.println(count);
+		sc.close();
 
 	}
 }

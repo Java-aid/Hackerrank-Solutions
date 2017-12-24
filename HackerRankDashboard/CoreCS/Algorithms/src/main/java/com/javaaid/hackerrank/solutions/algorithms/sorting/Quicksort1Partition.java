@@ -47,6 +47,7 @@ public class Quicksort1Partition {
 			a[i] = sc.nextInt();
 		}
 		partition(a, 0, a.length - 1);
+		sc.close();
 
 	}
 }

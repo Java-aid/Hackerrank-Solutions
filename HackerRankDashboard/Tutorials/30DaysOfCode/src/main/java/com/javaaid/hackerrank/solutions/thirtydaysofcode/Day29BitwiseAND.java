@@ -16,6 +16,7 @@ public class Day29BitwiseAND {
 		for (int a0 = 0; a0 < t; a0++) {
 			int n = in.nextInt();
 			int k = in.nextInt();
+			in.close();
 			if (((k - 1) | k) <= n) {
 				System.out.println(k - 1);
 			} else {

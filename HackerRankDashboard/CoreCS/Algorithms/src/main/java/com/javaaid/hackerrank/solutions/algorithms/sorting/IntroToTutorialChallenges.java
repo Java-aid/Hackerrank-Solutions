@@ -34,5 +34,6 @@ public class IntroToTutorialChallenges {
 			ar[i] = in.nextInt();
 		}
 		System.out.println(binarySearch(ar, key));
+		in.close();
 	}
 }

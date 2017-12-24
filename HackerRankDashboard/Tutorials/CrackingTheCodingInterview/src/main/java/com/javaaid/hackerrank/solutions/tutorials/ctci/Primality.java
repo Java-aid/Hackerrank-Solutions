@@ -29,5 +29,6 @@ public class Primality {
 				found = false;
 			}
 		}
+		in.close();
 	}
 }

@@ -26,7 +26,7 @@ public class Day24MoreLinkedLists {
 	public static Node removeDuplicates(Node head) {
 		if (head == null)
 			return head;
-		Set<Integer> s = new HashSet();
+		Set<Integer> s = new HashSet<Integer>();
 		Node node = head;
 		s.add(node.data);
 		Node newNode = new Node(node.data);
@@ -78,6 +78,6 @@ public class Day24MoreLinkedLists {
 		}
 		head = removeDuplicates(head);
 		display(head);
-
+		sc.close();
 	}
 }

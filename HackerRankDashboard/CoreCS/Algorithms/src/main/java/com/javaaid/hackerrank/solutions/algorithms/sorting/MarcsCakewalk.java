@@ -40,5 +40,6 @@ public class MarcsCakewalk {
 			sum = (sum + sortedArray[i] * (long) Math.pow(2, j++));
 		}
 		System.out.println(sum);
+		in.close();
 	}
 }

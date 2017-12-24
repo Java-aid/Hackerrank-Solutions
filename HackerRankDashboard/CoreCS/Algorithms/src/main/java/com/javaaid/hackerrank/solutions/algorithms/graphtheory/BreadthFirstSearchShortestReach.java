@@ -20,6 +20,7 @@ class Graph {
 	private int E;
 	private ArrayList<Integer>[] adj;
 
+	@SuppressWarnings("unchecked")
 	Graph(int V) {
 		adj = (ArrayList<Integer>[]) new ArrayList[V + 1];
 		this.V = V;

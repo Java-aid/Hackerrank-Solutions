@@ -15,7 +15,7 @@ public class JavaStdinAndStdoutII {
 		double d = sc.nextDouble();
 		sc.nextLine();
 		String s = sc.nextLine();
-
+		sc.close();
 		System.out.println("String: " + s);
 		System.out.println("Double: " + d);
 		System.out.println("Int: " + i);

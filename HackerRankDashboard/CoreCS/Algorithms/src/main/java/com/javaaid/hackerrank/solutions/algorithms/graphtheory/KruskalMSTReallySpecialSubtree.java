@@ -60,6 +60,7 @@ class EdgeWeightedGraph {
 	private int E;
 	private final ArrayList<Edge>[] adj;
 
+	@SuppressWarnings("unchecked")
 	public EdgeWeightedGraph(int V) {
 		super();
 		this.V = V;

@@ -38,7 +38,7 @@ public class CountingSort2 {
 		for (int j = 1; j <= N; j++) {
 			System.out.print(c[j] + " ");
 		}
-
+		sc.close();
 	}
 
 }

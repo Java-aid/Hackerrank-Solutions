@@ -35,7 +35,7 @@ public class InsertionSortPart2 {
 			ar[i] = in.nextInt();
 		}
 		insertionSortPart2(ar);
-
+		in.close();
 	}
 
 	private static void printArray(int[] ar) {

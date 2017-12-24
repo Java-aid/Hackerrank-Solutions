@@ -34,6 +34,7 @@ public class TwoDArrayDS {
 			}
 		}
 		System.out.println(maxsum);
+		in.close();
 	}
 
 }
