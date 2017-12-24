@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.hackerrank.solutions.languages.java.datastructures;
+package com.javaaid.hackerrank.solutions.languages.java.datastructures;
 
 /**
  * @author Kanahaiya Gupta

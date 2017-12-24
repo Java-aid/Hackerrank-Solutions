@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.hackerrank.solutions.languages.java.introduction;
+package com.javaaid.hackerrank.solutions.languages.java.introduction;
 
 import java.time.LocalDate;
 import java.util.Scanner;

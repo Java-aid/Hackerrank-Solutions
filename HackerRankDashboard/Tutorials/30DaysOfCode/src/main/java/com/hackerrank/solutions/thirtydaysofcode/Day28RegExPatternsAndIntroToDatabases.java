@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.hackerrank.solutions.thirtydaysofcode;
+package com.javaaid.hackerrank.solutions.thirtydaysofcode;
 
 import java.util.ArrayList;
 import java.util.Collections;

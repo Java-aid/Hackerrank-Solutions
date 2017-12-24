@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.hackerrank.solutions.languages.java.oop;
+package com.javaaid.hackerrank.solutions.languages.java.oop;
 
 import java.util.ArrayList;
 import java.util.Iterator;

@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.hackerrank.solutions.languages.java.datastructures;
+package com.javaaid.hackerrank.solutions.languages.java.datastructures;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

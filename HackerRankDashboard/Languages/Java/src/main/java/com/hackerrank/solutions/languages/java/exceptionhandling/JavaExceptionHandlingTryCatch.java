@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.hackerrank.solutions.languages.java.exceptionhandling;
+package com.javaaid.hackerrank.solutions.languages.java.exceptionhandling;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

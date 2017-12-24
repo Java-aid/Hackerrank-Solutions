@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.hackerrank.solutions.languages.java.advanced;
+package com.javaaid.hackerrank.solutions.languages.java.advanced;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

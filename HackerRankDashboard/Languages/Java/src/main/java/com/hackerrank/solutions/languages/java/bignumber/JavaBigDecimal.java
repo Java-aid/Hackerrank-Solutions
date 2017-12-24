@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.hackerrank.solutions.languages.java.bignumber;
+package com.javaaid.hackerrank.solutions.languages.java.bignumber;
 
 import java.math.BigDecimal;
 import java.util.Arrays;

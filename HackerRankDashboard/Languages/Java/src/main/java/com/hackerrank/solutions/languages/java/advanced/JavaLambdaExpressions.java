@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.hackerrank.solutions.languages.java.advanced;
+package com.javaaid.hackerrank.solutions.languages.java.advanced;
 
 import java.io.BufferedReader;
 import java.io.IOException;

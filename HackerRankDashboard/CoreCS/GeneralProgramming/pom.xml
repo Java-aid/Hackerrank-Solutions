@@ -3,13 +3,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <parent>
-    <groupId>com.hackerrank.solutions</groupId>
+    <groupId>com.javaaid.hackerrank.solutions</groupId>
     <artifactId>CoreCS</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <groupId>com.hackerrank.solutions</groupId>
   <artifactId>GeneralProgramming</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
   <name>GeneralProgramming</name>
   <url>http://maven.apache.org</url>
   <properties>

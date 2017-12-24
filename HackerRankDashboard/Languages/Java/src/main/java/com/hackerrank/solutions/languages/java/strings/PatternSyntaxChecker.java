@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.hackerrank.solutions.languages.java.strings;
+package com.javaaid.hackerrank.solutions.languages.java.strings;
 
 import java.util.Scanner;
 import java.util.regex.Pattern;
