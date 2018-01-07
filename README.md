@@ -16,17 +16,18 @@
 
 
 
-* [30 Days of Code](#30-days-of-code)
-* [Java](#java)
-* [Algorithms](#algorithms)
-* [Cracking the Coding Interview](#cracking-the-coding-interview)
-* [Data Structures](#data-structures)
-* [General Programming](#general-programming)
+* [30 DAYS OF CODE](#30-DAYS-OF-CODE)
+* [JAVA](#JAVA)
+* [ALGORITHMS](#ALGORITHMS)
+* [CRACKING THE CODING INTERVIEW](#CRACKING-THE-CODING-INTERVIEW)
+* [DATA STRUCTURES](#DATA-STRUCTURES)
+* [GENERAL PROGRAMMING](#GENERAL-PROGRAMMING)
+* [IMPLEMENTATION](#IMPLEMENTATION)
 
-Coding environment used- Windows 8.1, Eclipse neon, JAVA 8
+Coding environment used- Windows 8.1, Eclipse Oxygen, JAVA 8
 
 
-# 30 Days of Code
+# 30 DAYS OF CODE
 
 | Day |                                                Challenge                                              				  |                                                                                           Solution                                                                                                                              									    |
 |:---:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -61,7 +62,7 @@ Coding environment used- Windows 8.1, Eclipse neon, JAVA 8
 |  29 | [Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem)             							  | [Day29BitwiseAND.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Tutorials/30DaysOfCode/src/main/java/com/javaaid/hackerrank/solutions/thirtydaysofcode/Day29BitwiseAND.java)                	    		    			    |
 
 
-# Java
+# JAVA
 
 |                     Subdomain         	   |                                                         Challenge                                                       		 		|                                                                                                Solution                                                                                                                               				 		|
 |:--------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -131,7 +132,7 @@ Coding environment used- Windows 8.1, Eclipse neon, JAVA 8
 |                    Advanced   	  	       | [Java Visitor Pattern](https://www.hackerrank.com/challenges/java-vistor-pattern/problem)           	   			 				 	| [JavaVisitorPattern.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Languages/Java/src/main/java/com/javaaid/hackerrank/solutions/languages/java/advanced/JavaVisitorPattern.java)        			    				|
              
 
-# Algorithms
+# ALGORITHMS
 
 |        Subdomain        |                                                              Challenge                                                              |                                                                                                 Solution                                                                                                                                                                |
 |:-----------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -188,7 +189,7 @@ Coding environment used- Windows 8.1, Eclipse neon, JAVA 8
 |     Bit Manipulation    | [Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor/problem)         						   						| [MaximizingXOR.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Algorithms/src/main/java/com/javaaid/hackerrank/solutions/algorithms/bitmanipulation/MaximizingXOR.java)        							      			  |
 
 
-# Cracking the Coding Interview
+# CRACKING THE CODING INTERVIEW
 
 |         Topic         |                                         				        Challenge                                 						 |                                                                                                                Solution                                                                                                                        								  |
 |:---------------------:|:------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -207,7 +208,7 @@ Coding environment used- Windows 8.1, Eclipse neon, JAVA 8
 |    	Algorithms      | [BFS: Shortest Reach in a Graph](https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem)    	  				 | [BFSShortestReachInAGraph.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Tutorials/CrackingTheCodingInterview/src/main/java/com/javaaid/hackerrank/solutions/tutorials/ctci/BFSShortestReachInAGraph.java)             				  |
 
 
-# Data Structures
+# DATA STRUCTURES
 
 |    Subdomain    |                                                                        Challenge                                                                       |                                                                                                           Solution                                                                                                                                                           |
 |:---------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -242,7 +243,7 @@ Coding environment used- Windows 8.1, Eclipse neon, JAVA 8
 |   Disjoint Set  | [Components in a graph](https://www.hackerrank.com/challenges/find-the-running-median)                                                                 | [ComponentsInAGraph.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/DataStructures/src/main/java/com/javaaid/hackerrank/solutions/datastructures/disjointsets/ComponentsInAGraph.java)                                         |
 
 
-# General Programming
+# GENERAL PROGRAMMING
 
 |          Subdomain          |                                                           Challenge                                                          |                                                                                                     Solution                                                                                                                                                 |
 |:---------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -283,3 +284,12 @@ Coding environment used- Windows 8.1, Eclipse neon, JAVA 8
 |      Basic Programming      | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)                                   | [SherlockAndSquares.java](https://github.com/Java-aid/Hackerrank-Solutions/tree/master/HackerRankDashboard/CoreCS/GeneralProgramming/src/main/java/com/javaaid/hackerrank/solutions/generalprogramming/basicprogramming/SherlockAndSquares.java)             		|
 |      Basic Programming      | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)                                   			 | [AngryProfessor.java](https://github.com/Java-aid/Hackerrank-Solutions/tree/master/HackerRankDashboard/CoreCS/GeneralProgramming/src/main/java/com/javaaid/hackerrank/solutions/generalprogramming/basicprogramming/AngryProfessor.java)             				|
 |      Basic Programming      | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)                                 | [ExtraLongFactorials.java](https://github.com/Java-aid/Hackerrank-Solutions/tree/master/HackerRankDashboard/CoreCS/GeneralProgramming/src/main/java/com/javaaid/hackerrank/solutions/generalprogramming/basicprogramming/ExtraLongFactorials.java)             		|
+
+
+
+
+# IMPLEMENTATION
+
+|       Subdomain       |                                                           Challenge                                                          |                                                                                                     Solution                                                                                                                                               		  |
+|:---------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|      Brute Force      | [Encryption](https://www.hackerrank.com/challenges/encryption/problem)                                                       | [Encryption.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Implementation/src/main/java/org/javaaid/hackerrank/solutions/implementation/bruteforce/Encryption.java)                         	      				  |
