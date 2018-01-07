@@ -8,13 +8,13 @@
 
 
 
-* [30 DAYS OF CODE](#30-DAYS-OF-CODE)
-* [JAVA](#JAVA)
-* [ALGORITHMS](#ALGORITHMS)
-* [CRACKING THE CODING INTERVIEW](#CRACKING-THE-CODING-INTERVIEW)
-* [DATA STRUCTURES](#DATA-STRUCTURES)
-* [GENERAL PROGRAMMING](#GENERAL-PROGRAMMING)
-* [IMPLEMENTATION](#IMPLEMENTATION)
+* [30 DAYS OF CODE](#30-days-of-code)
+* [JAVA](#java)
+* [ALGORITHMS](#algorithms)
+* [CRACKING THE CODING INTERVIEW](#cracking-the-coding-interview)
+* [DATA STRUCTURES](#data-structures)
+* [GENERAL PROGRAMMING](#general-programming)
+* [IMPLEMENTATION](#implementation)
 
   Coding environment used- Windows 8.1, Eclipse Oxygen, JAVA 8
 
