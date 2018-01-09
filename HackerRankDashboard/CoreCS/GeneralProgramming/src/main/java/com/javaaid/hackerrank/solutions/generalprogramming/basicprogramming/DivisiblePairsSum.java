@@ -3,30 +3,32 @@
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 
-import java.util.HashSet;
 import java.util.Scanner;
 
 /**
  * @author Kanahaiya Gupta
  *
  */
-public class SockMerchant {
+public class DivisiblePairsSum {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		HashSet<Integer> set = new HashSet<Integer>();
 		int M = sc.nextInt();
+
+		int N = sc.nextInt();
+		int a[] = new int[M];
+		for (int i = 0; i < M; i++) {
+			a[i] = sc.nextInt();
+		}
 		int count = 0;
 		for (int i = 0; i < M; i++) {
-			int temp = sc.nextInt();
-			if (set.contains(temp)) {
-				set.remove(temp);
-				count++;
-			} else {
-				set.add(temp);
+			for (int j = i + 1; j < M; j++) {
+				if ((a[i] + a[j]) % N == 0) {
+					count++;
+				}
 			}
-
 		}
 		System.out.println(count);
 		sc.close();
 	}
+
 }
