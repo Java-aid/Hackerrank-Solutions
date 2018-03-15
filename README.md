@@ -185,6 +185,7 @@
 |    Bit Manipulation     | [Bit Manipulation: Lonely Integer](https://www.hackerrank.com/challenges/ctci-lonely-integer/problem)         						| [BitManipulationLonelyInteger.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Algorithms/src/main/java/com/javaaid/hackerrank/solutions/algorithms/bitmanipulation/BitManipulationLonelyInteger.java)        			  |
 |    Bit Manipulation     | [Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor/problem)         						   							    | [SumvsXOR.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Algorithms/src/main/java/com/javaaid/hackerrank/solutions/algorithms/bitmanipulation/SumvsXOR.java)        							      				      |
 |    Bit Manipulation     | [Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor/problem)         						   						| [MaximizingXOR.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Algorithms/src/main/java/com/javaaid/hackerrank/solutions/algorithms/bitmanipulation/MaximizingXOR.java)        							      			  |
+|    Bit Manipulation     | [Sansa and XOR](https://www.hackerrank.com/challenges/sansa-and-xor/problem)         						   						| [SansaAndXOR.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Algorithms/src/main/java/com/javaaid/hackerrank/solutions/algorithms/bitmanipulation/SansaAndXOR.java)        							      				  |
 
 
 # CRACKING THE CODING INTERVIEW
