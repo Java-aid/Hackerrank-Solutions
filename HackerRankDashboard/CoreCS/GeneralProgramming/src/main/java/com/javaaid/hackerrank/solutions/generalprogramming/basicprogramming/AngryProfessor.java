@@ -10,6 +10,19 @@ import java.util.Scanner;
  *
  */
 public class AngryProfessor {
+	
+	
+	static String angryProfessor(int k, int[] a) {
+		int count = 0;
+		for (int i = 0; i < a.length; i++) {
+			if (a[i] <= 0) {
+				count++;
+			}
+		}
+		return ((count >= k) ? "NO" : "YES");
+
+	}
+
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		int t = in.nextInt();
@@ -17,15 +30,12 @@ public class AngryProfessor {
 			int n = in.nextInt();
 			int k = in.nextInt();
 			int a[] = new int[n];
-			int count = 0;
 			for (int a_i = 0; a_i < n; a_i++) {
 				a[a_i] = in.nextInt();
-				if (a[a_i] <= 0) {
-					count++;
-				}
 			}
-			System.out.println((count >= k) ? "NO" : "YES");
+			System.out.println(angryProfessor(k, a));
 		}
+
 		in.close();
 	}
 }
