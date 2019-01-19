@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem)  
+ * 
  */
 package com.javaaid.hackerrank.solutions.thirtydaysofcode;
 
