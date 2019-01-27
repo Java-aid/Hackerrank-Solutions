@@ -3,6 +3,8 @@
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 /**
@@ -10,30 +12,22 @@ import java.util.Scanner;
  *
  */
 public class CompareTheTriplets {
-	public static void main(String[] args) {
-		Scanner in = new Scanner(System.in);
-		int a0 = in.nextInt();
-		int a1 = in.nextInt();
-		int a2 = in.nextInt();
-		int b0 = in.nextInt();
-		int b1 = in.nextInt();
-		int b2 = in.nextInt();
-		int aScore = 0;
-		int bScore = 0;
-		in.close();
-		if (a0 != b0) {
-			int temp = a0 < b0 ? bScore++ : aScore++;
-		}
 
-		if (a1 != b1) {
+	static List<Integer> compareTriplets(List<Integer> a, List<Integer> b) {
+		int aliceTotalScore = 0, bobTotalScore = 0;
 
-			int temp = a1 < b1 ? bScore++ : aScore++;
-		}
-		if (a2 != b2) {
+		for (int i = 0; i < 3; i++) {
+			int aliceScore = a.get(i);
+			int bobScore = b.get(i);
+			if (aliceScore != bobScore) {
+				int temp = aliceScore > bobScore ? aliceTotalScore++ : bobTotalScore++;
+			}
 
-			int temp = a2 < b2 ? bScore++ : aScore++;
 		}
-		System.out.println(aScore + " " + bScore);
-		
+		List<Integer> result = new ArrayList<>();
+		result.add(aliceTotalScore);
+		result.add(bobTotalScore);
+		return result;
 	}
+
 }
