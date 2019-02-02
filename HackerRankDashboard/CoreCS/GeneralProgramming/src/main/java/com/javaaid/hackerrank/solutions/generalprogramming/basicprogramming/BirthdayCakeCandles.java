@@ -10,25 +10,34 @@ import java.util.Scanner;
  *
  */
 public class BirthdayCakeCandles {
+	static int birthdayCakeCandles(int[] ar) {
+		int maxCandleHeight = Integer.MIN_VALUE;
+		int maxCandleFreqCount = 0;
+
+		for (int i = 0; i < ar.length; i++) {
+
+			if (ar[i] == maxCandleHeight) {
+				maxCandleFreqCount++;
+			}
+
+			if (ar[i] > maxCandleHeight) {
+				maxCandleHeight = ar[i];
+				maxCandleFreqCount = 1;
+			}
+
+		}
+		return maxCandleFreqCount;
+
+	}
+
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int M = sc.nextInt();
 		int a[] = new int[M];
-		int max = Integer.MIN_VALUE;
-		int maxCount = 0;
 		for (int i = 0; i < M; i++) {
 			a[i] = sc.nextInt();
-			if (a[i] >= max) {
-				if (a[i] == max) {
-					maxCount++;
-				} else {
-					max = a[i];
-					maxCount = 1;
-				}
-
-			}
 		}
-		System.out.println(maxCount);
+		System.out.println(birthdayCakeCandles(a));
 		sc.close();
 	}
 
