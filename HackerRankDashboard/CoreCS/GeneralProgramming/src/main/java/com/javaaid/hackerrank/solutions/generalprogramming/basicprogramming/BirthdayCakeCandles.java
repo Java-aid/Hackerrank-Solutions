@@ -10,7 +10,6 @@ import java.util.Scanner;
  *
  */
 public class BirthdayCakeCandles {
-
 	static int birthdayCakeCandles(int[] ar) {
 		int maxCandleHeight = Integer.MIN_VALUE;
 		int maxCandleFreqCount = 0;
