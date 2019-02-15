@@ -1,3 +1,9 @@
+/**
+ * 
+ * Problem Statement-
+ * [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array)  
+ * 
+ */
 package com.javaaid.hackerrank.solutions.datastructures.arrays;
 
 import java.util.ArrayList;

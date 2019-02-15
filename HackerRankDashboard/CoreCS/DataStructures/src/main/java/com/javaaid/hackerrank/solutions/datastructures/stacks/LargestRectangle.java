@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Largest Rectangle](https://www.hackerrank.com/challenges/largest-rectangle/problem)    
+ * 
  */
 package com.javaaid.hackerrank.solutions.datastructures.stacks;
 

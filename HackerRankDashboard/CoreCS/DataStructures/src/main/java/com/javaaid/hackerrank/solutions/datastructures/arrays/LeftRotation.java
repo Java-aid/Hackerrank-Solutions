@@ -1,3 +1,9 @@
+/**
+ * 
+ * Problem Statement-
+ * [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation)   
+ * 
+ */
 package com.javaaid.hackerrank.solutions.datastructures.arrays;
 
 import java.util.Scanner;

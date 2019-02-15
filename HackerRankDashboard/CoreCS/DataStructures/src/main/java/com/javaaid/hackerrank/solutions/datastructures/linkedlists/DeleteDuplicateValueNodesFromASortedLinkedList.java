@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Delete duplicate-value nodes from a sorted linked list](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem)  
+ * 
  */
 package com.javaaid.hackerrank.solutions.datastructures.linkedlists;
 

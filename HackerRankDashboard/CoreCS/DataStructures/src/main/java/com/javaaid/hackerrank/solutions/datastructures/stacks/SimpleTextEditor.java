@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Simple Text Editor](https://www.hackerrank.com/challenges/simple-text-editor/problem)   
+ * 
  */
 package com.javaaid.hackerrank.solutions.datastructures.stacks;
 

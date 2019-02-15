@@ -1,3 +1,9 @@
+/**
+ * 
+ * Problem Statement-
+ * [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds)  
+ * 
+ */
 package com.javaaid.hackerrank.solutions.datastructures.arrays;
 
 import java.util.Scanner;

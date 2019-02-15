@@ -1,3 +1,9 @@
+/**
+ * 
+ * Problem Statement-
+ * [Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks)  
+ * 
+ */
 package com.javaaid.hackerrank.solutions.datastructures.queues;
 
 import java.util.Scanner;
