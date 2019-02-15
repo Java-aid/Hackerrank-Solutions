@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Gemstones](https://www.hackerrank.com/challenges/gem-stones/problem)   
+ * 
  */
 package com.javaaid.hackerrank.solutions.algorithms.strings;
 

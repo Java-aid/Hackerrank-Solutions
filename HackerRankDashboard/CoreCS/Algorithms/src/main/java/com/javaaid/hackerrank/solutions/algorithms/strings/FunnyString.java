@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Funny String](https://www.hackerrank.com/challenges/funny-string/problem)
+ * 
  */
 package com.javaaid.hackerrank.solutions.algorithms.strings;
 

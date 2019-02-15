@@ -1,5 +1,9 @@
 /**
  * 
+ * Problem Statement-
+ * [Bit Manipulation: Lonely Integer](https://www.hackerrank.com/challenges/ctci-lonely-integer/problem)
+ * [Tutorial](https://youtu.be/k1i6eIpeXak)
+ * 
  */
 package com.javaaid.hackerrank.solutions.algorithms.search;
 

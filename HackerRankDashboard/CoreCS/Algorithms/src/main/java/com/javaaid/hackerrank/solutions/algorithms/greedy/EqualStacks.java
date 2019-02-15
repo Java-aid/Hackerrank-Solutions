@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks/problem)  
+ * 
  */
 package com.javaaid.hackerrank.solutions.algorithms.greedy;
 

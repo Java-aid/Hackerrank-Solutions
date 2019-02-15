@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor/problem) 
+ * 
  */
 package com.javaaid.hackerrank.solutions.algorithms.bitmanipulation;
 

@@ -1,5 +1,9 @@
 /**
  * 
+ * Problem Statement-
+ * [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem)
+ * [Tutorial](https://youtu.be/k1i6eIpeXak)
+ * 
  */
 package com.javaaid.hackerrank.solutions.algorithms.bitmanipulation;
 

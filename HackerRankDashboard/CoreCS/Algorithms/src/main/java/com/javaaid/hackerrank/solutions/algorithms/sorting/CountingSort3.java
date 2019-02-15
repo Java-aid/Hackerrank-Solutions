@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Counting Sort 3](https://www.hackerrank.com/challenges/countingsort3/problem) 
+ * 
  */
 package com.javaaid.hackerrank.solutions.algorithms.sorting;
 

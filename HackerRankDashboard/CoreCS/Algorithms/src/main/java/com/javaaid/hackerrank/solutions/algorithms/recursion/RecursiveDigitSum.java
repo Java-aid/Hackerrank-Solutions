@@ -1,3 +1,9 @@
+/**
+ * 
+ * Problem Statement-
+ * [Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) 
+ * 
+ */
 package com.javaaid.hackerrank.solutions.algorithms.recursion;
 
 import java.math.BigInteger;

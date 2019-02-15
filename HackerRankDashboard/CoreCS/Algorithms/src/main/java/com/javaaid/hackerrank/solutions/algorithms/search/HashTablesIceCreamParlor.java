@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [HashTables: IceCreamParlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem) 
+ * 
  */
 package com.javaaid.hackerrank.solutions.algorithms.search;
 

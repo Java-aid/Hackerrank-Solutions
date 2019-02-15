@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem) 
+ * 
  */
 package com.javaaid.hackerrank.solutions.algorithms.strings;
 

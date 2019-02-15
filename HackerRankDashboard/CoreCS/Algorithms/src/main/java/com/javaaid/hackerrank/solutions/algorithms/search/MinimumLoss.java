@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Minimum Loss](https://www.hackerrank.com/challenges/minimum-loss/problem)
+ * 
  */
 package com.javaaid.hackerrank.solutions.algorithms.search;
 

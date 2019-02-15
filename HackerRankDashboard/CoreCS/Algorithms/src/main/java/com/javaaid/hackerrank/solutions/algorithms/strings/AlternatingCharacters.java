@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem)
+ * 
  */
 package com.javaaid.hackerrank.solutions.algorithms.strings;
 

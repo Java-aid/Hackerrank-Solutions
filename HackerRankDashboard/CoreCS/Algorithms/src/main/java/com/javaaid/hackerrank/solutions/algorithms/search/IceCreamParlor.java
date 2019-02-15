@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem) 
+ * 
  */
 package com.javaaid.hackerrank.solutions.algorithms.search;
 
