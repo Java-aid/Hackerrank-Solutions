@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem)  
+ * 
  */
 package com.javaaid.hackerrank.solutions.tutorials.ctci;
 

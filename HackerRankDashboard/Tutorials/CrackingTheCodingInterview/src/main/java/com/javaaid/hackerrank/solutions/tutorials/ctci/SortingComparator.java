@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Sorting: Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem)  
+ * 
  */
 package com.javaaid.hackerrank.solutions.tutorials.ctci;
 

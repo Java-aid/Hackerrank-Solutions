@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) 
+ * 
  */
 package com.javaaid.hackerrank.solutions.tutorials.ctci;
 

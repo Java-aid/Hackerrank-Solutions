@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Linked Lists: Detect a Cycle](https://www.hackerrank.com/challenges/ctci-linked-list-cycle/problem) 
+ * 
  */
 package com.javaaid.hackerrank.solutions.tutorials.ctci;
 

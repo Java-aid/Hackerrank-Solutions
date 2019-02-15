@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Trees: Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/ctci-is-binary-search-tree/problem)  
+ * 
  */
 package com.javaaid.hackerrank.solutions.tutorials.ctci;
 

@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)
+ * 
  */
 package com.javaaid.hackerrank.solutions.tutorials.ctci;
 

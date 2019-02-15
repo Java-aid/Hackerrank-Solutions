@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Heaps: Find the Running Median](https://www.hackerrank.com/challenges/ctci-find-the-running-median/problem)  
+ * 
  */
 package com.javaaid.hackerrank.solutions.tutorials.ctci;
 
