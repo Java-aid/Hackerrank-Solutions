@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem) 
+ * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 

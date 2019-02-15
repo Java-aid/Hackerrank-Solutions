@@ -1,5 +1,9 @@
 /**
  * 
+ * Problem Statement-
+ * [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)    
+ * [Tutorial]([Tutorial](https://youtu.be/rFUZAtwXiII) 
+ * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 

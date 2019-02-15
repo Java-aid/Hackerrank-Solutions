@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem) 
+ * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 

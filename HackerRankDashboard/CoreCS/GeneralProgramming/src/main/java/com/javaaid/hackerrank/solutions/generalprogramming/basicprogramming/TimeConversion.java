@@ -1,5 +1,9 @@
 /**
  * 
+ * Problem Statement-
+ * [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)     
+ * [Tutorial](https://youtu.be/MFvX3sLsHNY)   
+ * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 

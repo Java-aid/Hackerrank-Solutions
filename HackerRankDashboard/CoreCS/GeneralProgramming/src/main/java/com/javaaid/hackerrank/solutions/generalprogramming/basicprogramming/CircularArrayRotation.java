@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem) 
+ * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 

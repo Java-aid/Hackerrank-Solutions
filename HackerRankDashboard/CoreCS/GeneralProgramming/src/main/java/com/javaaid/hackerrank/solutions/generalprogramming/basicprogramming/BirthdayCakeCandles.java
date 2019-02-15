@@ -1,5 +1,9 @@
 /**
  * 
+ * Problem Statement-
+ * [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)    
+ * [Tutorial](https://youtu.be/1gxFE9EfanE)  
+ * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 

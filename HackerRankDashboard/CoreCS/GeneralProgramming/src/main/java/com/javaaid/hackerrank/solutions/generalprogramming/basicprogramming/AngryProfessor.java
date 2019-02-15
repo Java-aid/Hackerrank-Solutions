@@ -1,5 +1,9 @@
 /**
  * 
+ * Problem Statement-
+ * [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)        
+ * [Tutorial](https://youtu.be/3hvzKDJQypI)        
+ * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 

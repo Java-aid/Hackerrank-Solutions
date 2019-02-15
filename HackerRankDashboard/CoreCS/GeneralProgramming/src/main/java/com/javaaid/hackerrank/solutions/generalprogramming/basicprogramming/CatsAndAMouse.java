@@ -1,5 +1,9 @@
 /**
  * 
+ * Problem Statement-
+ * [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)     
+ * [Tutorial](https://youtu.be/WyyirZT5oik)         
+ * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 

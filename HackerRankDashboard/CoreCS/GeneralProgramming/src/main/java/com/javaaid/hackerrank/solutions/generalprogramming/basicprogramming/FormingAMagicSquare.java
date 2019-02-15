@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem)
+ * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 

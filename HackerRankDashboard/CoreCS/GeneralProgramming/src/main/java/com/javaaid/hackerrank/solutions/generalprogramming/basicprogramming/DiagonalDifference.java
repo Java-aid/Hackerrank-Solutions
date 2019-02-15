@@ -1,3 +1,10 @@
+/**
+ * 
+ * Problem Statement-
+ * [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)
+ * [Tutorial](https://youtu.be/f6bTIsj9ne8) 
+ * 
+ */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 
 /**

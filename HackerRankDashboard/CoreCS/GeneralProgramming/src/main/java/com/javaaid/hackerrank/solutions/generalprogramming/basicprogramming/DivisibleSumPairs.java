@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)        
+ * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 

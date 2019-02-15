@@ -1,5 +1,9 @@
 /**
  * 
+ * Problem Statement-
+ * [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)   
+ * [Tutorial](https://youtu.be/GwfSRZB1ZJM) 
+ * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 

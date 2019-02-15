@@ -1,5 +1,9 @@
 /**
  * 
+ * Problem Statement-
+ * [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)    
+ * [Tutorial](https://youtu.be/NPMxxSyE7jM)  
+ * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 

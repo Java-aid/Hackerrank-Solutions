@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)        
+ * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 

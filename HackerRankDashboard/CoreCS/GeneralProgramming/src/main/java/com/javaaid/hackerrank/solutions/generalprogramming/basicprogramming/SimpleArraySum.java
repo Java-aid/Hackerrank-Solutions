@@ -1,5 +1,9 @@
 /**
  * 
+ * Problem Statement-
+ * [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)   
+ * [Tutorial](https://youtu.be/bRtxlFZmVZU) 
+ * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 

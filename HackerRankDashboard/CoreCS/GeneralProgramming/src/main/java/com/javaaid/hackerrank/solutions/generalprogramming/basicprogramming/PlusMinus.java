@@ -1,3 +1,10 @@
+/**
+ * 
+ * Problem Statement-
+ * [Plus Minus](https://www.hackerrank.com/challenges/plus-minus)
+ * [Tutorial](https://youtu.be/aLS4HYPfzUw) 
+ * 
+ */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 
 import java.util.Scanner;

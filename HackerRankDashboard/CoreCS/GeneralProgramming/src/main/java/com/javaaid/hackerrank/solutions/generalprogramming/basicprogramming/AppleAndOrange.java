@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)         
+ * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 

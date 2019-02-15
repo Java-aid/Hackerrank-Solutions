@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem)
+ * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 

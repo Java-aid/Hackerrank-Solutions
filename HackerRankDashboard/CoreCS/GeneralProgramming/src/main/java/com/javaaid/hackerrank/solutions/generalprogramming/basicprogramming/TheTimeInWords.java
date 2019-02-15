@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem)
+ * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 

@@ -1,9 +1,11 @@
 /**
  * 
+ * Problem Statement-
+ * [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)    
+ * [Tutorial](https://youtu.be/CNL1WzrtxGY)  
+ * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
-
-import java.util.Scanner;
 
 /**
  * @author Kanahaiya Gupta
@@ -27,4 +29,5 @@ public class MiniMaxSum {
 		System.out.print((sum - max) + " " + (sum - min));
 
 	}
+
 }

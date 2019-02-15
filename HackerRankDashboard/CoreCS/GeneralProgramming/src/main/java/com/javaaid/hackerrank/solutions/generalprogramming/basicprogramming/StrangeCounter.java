@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Strange Counter](https://www.hackerrank.com/challenges/strange-code/problem)  
+ * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 

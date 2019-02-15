@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem)
+ * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 

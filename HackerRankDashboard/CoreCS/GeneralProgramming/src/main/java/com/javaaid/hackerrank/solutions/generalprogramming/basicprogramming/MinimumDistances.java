@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)  
+ * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 

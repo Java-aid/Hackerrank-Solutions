@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Consecutive 1's in Binary Numbers](https://www.hackerrank.com/challenges/linkedin-practice-binary-numbers/problem)  
+ * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 

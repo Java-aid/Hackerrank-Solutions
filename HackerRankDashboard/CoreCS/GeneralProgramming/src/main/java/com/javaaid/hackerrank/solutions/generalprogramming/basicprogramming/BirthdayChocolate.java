@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem)  
+ * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 
