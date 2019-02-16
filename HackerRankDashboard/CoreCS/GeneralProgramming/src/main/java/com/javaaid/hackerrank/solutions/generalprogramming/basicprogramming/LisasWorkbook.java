@@ -33,13 +33,13 @@ public class LisasWorkbook {
 	private static int getSepcialProblemCount(int n, int k, int[] a) {
 		int pageNumber = 1, specialProblems = 0, problemNumber = 1;
 		for (int chapterNumber = 1; chapterNumber <= n;) {
-			int problemPerPage = (problemNumber + k - 1) < a[chapterNumber] ? problemNumber + k - 1 : a[chapterNumber];
+			int problemPerPage = (problemNumber + k - 1) < a[chapterNumber-1] ? problemNumber + k - 1 : a[chapterNumber-1];
 			if (problemNumber <= pageNumber && pageNumber <= problemPerPage) {
 				specialProblems++;
 			}
 			pageNumber++;
 			problemNumber += k;
-			if (problemNumber > a[chapterNumber]) {
+			if (problemNumber > a[chapterNumber-1]) {
 				problemNumber = 1;
 				chapterNumber++;
 			}
