@@ -14,21 +14,21 @@ import java.util.Scanner;
  */
 public class CountingValleys {
 
-	// Complete the countingValleys function below.
 	static int countingValleys(int n, String s) {
-		int valleyCounter = 0, seeLevel = 0;
+
+		int valleyCounter = 0, altitude = 0;
 
 		for (int i = 0; i < n; i++) {
 			char ch = s.charAt(i);
 			if (ch == 'U') {
-				seeLevel++;
-				if (seeLevel == 0) {
+				altitude++;
+				if (altitude == 0) {
 					valleyCounter++;
 				}
 
 			} else {
 
-				seeLevel--;
+				altitude--;
 			}
 		}
 		return valleyCounter;
