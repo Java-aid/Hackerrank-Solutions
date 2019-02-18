@@ -9,9 +9,8 @@
        <img align="right" height=85 src="https://www.freepngimg.com/thumb/subscribe/4-2-subscribe-png-2.png">
    </a>
  <p/>
-
  <p align="center">
-     <br>This repository contains HackerRank problems solutions
+ This repository contains HackerRank problems solutions
 </p>
 <br/>
 <br/>
