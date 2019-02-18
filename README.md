@@ -1,12 +1,20 @@
 <p align="center">
-    <a href="https://www.hackerrank.com/Kanahaiya">
-        <img height=85 src="https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/src/main/resources/images/hackerrank.svg">
-    </a>
-    <br>This repository contains HackerRank problems solutions
+<a  href="https://www.facebook.com/javaaid/">
+       <img align="left" height=85 src="https://clipart.info/images/ccovers/1499793237fb-facebook-like-png.png">
+   </a>
+   <a align="center" href="https://www.hackerrank.com/Kanahaiya">
+       <img height=85 src="https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/src/main/resources/images/hackerrank.svg">
+   </a>
+   <a href="https://www.youtube.com/c/JavaAidTutorials?sub_confirmation=1">
+       <img align="right" height=85 src="https://www.freepngimg.com/thumb/subscribe/4-2-subscribe-png-2.png">
+   </a>
+ <p/>
+
+ <p align="center">
+     <br>This repository contains HackerRank problems solutions
 </p>
-
-
-
+<br/>
+<br/>
 
 * [30 DAYS OF CODE](#30-days-of-code)
 * [JAVA](#java)
