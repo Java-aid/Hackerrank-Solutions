@@ -2,7 +2,7 @@
  * 
  * Problem Statement-
  * [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)        
- * 
+ * [Tutorial](https://youtu.be/52R2pLDjUBw)
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 
