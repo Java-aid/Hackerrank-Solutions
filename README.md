@@ -1,12 +1,19 @@
 <p align="center">
-    <a href="https://www.hackerrank.com/Kanahaiya">
-        <img height=85 src="https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/src/main/resources/images/hackerrank.svg">
-    </a>
-    <br>This repository contains HackerRank problems solutions
+<a  href="https://www.facebook.com/javaaid/">
+       <img align="left" height=85 src="https://clipart.info/images/ccovers/1499793237fb-facebook-like-png.png">
+   </a>
+   <a align="center" href="https://www.hackerrank.com/Kanahaiya">
+       <img height=85 src="https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/src/main/resources/images/hackerrank.svg">
+   </a>
+   <a href="https://www.youtube.com/c/JavaAidTutorials?sub_confirmation=1">
+       <img align="right" height=85 src="https://www.freepngimg.com/thumb/subscribe/4-2-subscribe-png-2.png">
+   </a>
+ <p/>
+ <p align="center">
+ This repository contains HackerRank problems solutions
 </p>
-
-
-
+<br/>
+<br/>
 
 * [30 DAYS OF CODE](#30-days-of-code)
 * [JAVA](#java)
@@ -275,7 +282,7 @@
 |      Basic Programming      | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)                                           | [SimpleArraySum.java](https://github.com/Java-aid/Hackerrank-Solutions/tree/master/HackerRankDashboard/CoreCS/GeneralProgramming/src/main/java/com/javaaid/hackerrank/solutions/generalprogramming/basicprogramming/SimpleArraySum.java)                     		| [Tutorial](https://youtu.be/bRtxlFZmVZU)    				 |
 |      Basic Programming      | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)                                   | [CompareTheTriplets.java](https://github.com/Java-aid/Hackerrank-Solutions/tree/master/HackerRankDashboard/CoreCS/GeneralProgramming/src/main/java/com/javaaid/hackerrank/solutions/generalprogramming/basicprogramming/CompareTheTriplets.java)             		| [Tutorial](https://youtu.be/rFUZAtwXiII)    				 |
 |      Basic Programming      | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)                                  	 | [DivisibleSumPairs.java](https://github.com/Java-aid/Hackerrank-Solutions/tree/master/HackerRankDashboard/CoreCS/GeneralProgramming/src/main/java/com/javaaid/hackerrank/solutions/generalprogramming/basicprogramming/DivisibleSumPairs.java)               		|       											         |
-|      Basic Programming      | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)                                   						 | [Kangaroo.java](https://github.com/Java-aid/Hackerrank-Solutions/tree/master/HackerRankDashboard/CoreCS/GeneralProgramming/src/main/java/com/javaaid/hackerrank/solutions/generalprogramming/basicprogramming/Kangaroo.java)            								|       											         |
+|      Basic Programming      | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)                                   						 | [Kangaroo.java](https://github.com/Java-aid/Hackerrank-Solutions/tree/master/HackerRankDashboard/CoreCS/GeneralProgramming/src/main/java/com/javaaid/hackerrank/solutions/generalprogramming/basicprogramming/Kangaroo.java)            								| [Tutorial](https://youtu.be/52R2pLDjUBw)			         |
 |      Basic Programming      | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)                                  				 | [DrawingBook.java](https://github.com/Java-aid/Hackerrank-Solutions/tree/master/HackerRankDashboard/CoreCS/GeneralProgramming/src/main/java/com/javaaid/hackerrank/solutions/generalprogramming/basicprogramming/DrawingBook.java)             						|       											         |
 |      Basic Programming      | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)                                 | [BirthdayCakeCandles.java](https://github.com/Java-aid/Hackerrank-Solutions/tree/master/HackerRankDashboard/CoreCS/GeneralProgramming/src/main/java/com/javaaid/hackerrank/solutions/generalprogramming/basicprogramming/BirthdayCakeCandles.java)           		| [Tutorial](https://youtu.be/1gxFE9EfanE)      		     |
 |      Basic Programming      | [Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit/problem)                                   					 | [BonAppétit.java](https://github.com/Java-aid/Hackerrank-Solutions/tree/master/HackerRankDashboard/CoreCS/GeneralProgramming/src/main/java/com/javaaid/hackerrank/solutions/generalprogramming/basicprogramming/BonAppétit.java)             						|       											         |
