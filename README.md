@@ -1,6 +1,6 @@
 <p align="center">
-<a  href="https://www.facebook.com/javaaid/">
-       <img align="left" height=85 src="https://clipart.info/images/ccovers/1499793237fb-facebook-like-png.png">
+<a  href="https://www.facebook.com/groups/codingip">
+       <img align="left" height=85 src="https://static1.squarespace.com/static/5994a0f17131a5643f407c37/t/5bf9070c0ebbe88c3392b17c/1543047009836/facebook_button.png">
    </a>
    <a align="center" href="https://www.hackerrank.com/Kanahaiya">
        <img height=85 src="https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/src/main/resources/images/hackerrank.svg">
@@ -22,6 +22,7 @@
 * [DATA STRUCTURES](#data-structures)
 * [GENERAL PROGRAMMING](#general-programming)
 * [IMPLEMENTATION](#implementation)
+* [LEARNING RESOURCES](#learning-resources)
 
   Coding environment used- Windows 8.1, Eclipse Oxygen, JAVA 8
 
@@ -359,3 +360,17 @@
 
 
 
+
+
+
+# LEARNING RESOURCES
+
+[Cracking the Coding Interview](https://amzn.to/2Xu9wyp)
+
+[Algorithms Hardcover](https://amzn.to/2Xro3uB)
+
+[Data Structures and Algorithms Made Easy: Data Structures and Algorithmic Puzzles](https://amzn.to/2XwmE5V)
+
+[The Algorithm Design Manual](https://amzn.to/2BSDOS3)
+
+[Introduction to Algorithms](https://amzn.to/2El9XCi)
