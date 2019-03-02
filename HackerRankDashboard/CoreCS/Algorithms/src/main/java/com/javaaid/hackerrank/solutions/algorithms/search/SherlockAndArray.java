@@ -2,7 +2,7 @@
  * 
  * Problem Statement-
  * [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem)
- * 
+ * [Tutorial](https://youtu.be/xPHJH8RL3mo)
  */
 package com.javaaid.hackerrank.solutions.algorithms.search;
 
