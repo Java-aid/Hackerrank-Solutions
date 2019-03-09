@@ -2,7 +2,7 @@
  * 
  * Problem Statement-
  * [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)        
- * 
+ * [Tutorial](https://youtu.be/aM2Y2PeXrhk)
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 
