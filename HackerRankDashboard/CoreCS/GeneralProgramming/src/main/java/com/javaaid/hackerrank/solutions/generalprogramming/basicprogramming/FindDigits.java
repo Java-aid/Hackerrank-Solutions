@@ -2,7 +2,7 @@
  * 
  * Problem Statement-
  * [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)
- * 
+ * [Tutorial](https://youtu.be/QSQRJ41xm6k) 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 
@@ -13,20 +13,27 @@ import java.util.Scanner;
  *
  */
 public class FindDigits {
+
+	static int findDigits(int n) {
+		int count = 0;
+		int num = n;
+		while (n > 0) {
+			int r = n % 10;
+			if (r != 0 && num % r == 0)
+				count++;
+			n = n / 10;
+
+		}
+		return count;
+
+	}
+
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
-		int count = 0;
 		for (int i = 0; i < n; i++) {
-			String tmp = sc.next();
-			for (int j = 0; j < tmp.length(); j++) {
-				int digit = tmp.charAt(j) - '0';
-				if (digit != 0 && Integer.parseInt(tmp) % digit == 0) {
-					count++;
-				}
-			}
-			System.out.println(count);
-			count = 0;
+			int input = sc.nextInt();
+			System.out.println(findDigits(input));
 		}
 		sc.close();
 	}
