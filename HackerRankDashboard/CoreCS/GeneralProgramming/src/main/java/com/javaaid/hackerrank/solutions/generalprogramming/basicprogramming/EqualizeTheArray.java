@@ -2,11 +2,11 @@
  * 
  * Problem Statement-
  * [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)
+ * [Tutorial](https://youtu.be/Pdyvr669adE)
  * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 
-import java.util.HashMap;
 import java.util.Scanner;
 
 /**
@@ -16,24 +16,25 @@ import java.util.Scanner;
 public class EqualizeTheArray {
 
 	static int equalizeArray(int[] arr) {
-		HashMap<Integer, Integer> hmap = new HashMap<>();
 		int len = arr.length;
-		int maxFreqElement = 0;
+		int aux[] = new int[101];
 		for (int i = 0; i < len; i++) {
-			int tmp = arr[i];
-			if (hmap.containsKey(tmp)) {
-				int oldFreqValue = hmap.get(tmp);
-				int newFreqValue = oldFreqValue + 1;
-				hmap.put(tmp, newFreqValue);
+			int index = arr[i];
+			aux[index]++;
+		}
 
-				if (newFreqValue > maxFreqElement) {
-					maxFreqElement = newFreqValue;
-				}
-			} else {
-				hmap.put(tmp, 1);
+		int maxFreqCount = getMaxFreqCount(aux);
+		return len - maxFreqCount;
+	}
+
+	private static int getMaxFreqCount(int[] aux) {
+		int maxFreqCount = Integer.MIN_VALUE;
+		for (int freqCount : aux) {
+			if (freqCount > maxFreqCount) {
+				maxFreqCount = freqCount;
 			}
 		}
-		return len - maxFreqElement;
+		return maxFreqCount;
 	}
 
 	public static void main(String[] args) {
