@@ -381,5 +381,5 @@ then you are at the right place. :)
 
 [Grokking Algorithms: An illustrated guide for programmers and other curious people](https://amzn.to/2KRgjzV)
 
-DISCLAIMER: This video and description contains affiliate links, which means that if you click on one of the product links, I’ll receive a small commission. 
+DISCLAIMER: This above mentioned resources have affiliate links, which means if you buy one of the product from my links, I’ll receive a small commission. 
 
