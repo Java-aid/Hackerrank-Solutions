@@ -344,7 +344,7 @@ then you are at the right place. :)
 |      Basic Programming      | [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search/problem)               		    				     | [TheGridSearch.java](https://github.com/Java-aid/Hackerrank-Solutions/tree/master/HackerRankDashboard/CoreCS/GeneralProgramming/src/main/java/com/javaaid/hackerrank/solutions/generalprogramming/basicprogramming/TheGridSearch.java)             					|       											         |
 |      Basic Programming      | [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem)               							     | [HappyLadybugs.java](https://github.com/Java-aid/Hackerrank-Solutions/tree/master/HackerRankDashboard/CoreCS/GeneralProgramming/src/main/java/com/javaaid/hackerrank/solutions/generalprogramming/basicprogramming/HappyLadybugs.java)     					        |       											         |
 |      Basic Programming      | [Strange Counter](https://www.hackerrank.com/challenges/strange-code/problem)               							     | [StrangeCounter.java](https://github.com/Java-aid/Hackerrank-Solutions/tree/master/HackerRankDashboard/CoreCS/GeneralProgramming/src/main/java/com/javaaid/hackerrank/solutions/generalprogramming/basicprogramming/StrangeCounter.java)           					|															 |
-|      Basic Programming      | [Consecutive 1's in Binary Numbers](https://www.hackerrank.com/challenges/linkedin-practice-binary-numbers/problem)          | [Consecutive1sInBinaryNumbers.java](https://github.com/Java-aid/Hackerrank-Solutions/tree/master/HackerRankDashboard/CoreCS/GeneralProgramming/src/main/java/com/javaaid/hackerrank/solutions/generalprogramming/basicprogramming/Consecutive1sInBinaryNumbers.java) |															 |
+|      Basic Programming      | [Consecutive 1's in Binary Numbers](https://www.hackerrank.com/challenges/linkedin-practice-binary-numbers/problem)          | [Consecutive1sInBinaryNumbers.java](https://github.com/Java-aid/Hackerrank-Solutions/tree/master/HackerRankDashboard/CoreCS/GeneralProgramming/src/main/java/com/javaaid/hackerrank/solutions/generalprogramming/basicprogramming/Consecutive1sInBinaryNumbers.java) |	[Tutorial](https://youtu.be/bc7cxeDy308)				 |
 
 
 # IMPLEMENTATION
@@ -379,4 +379,7 @@ then you are at the right place. :)
 
 [Introduction to Algorithms](https://amzn.to/2El9XCi)
 
-Note: Above mentioned links are Amazon affilate links
+[Grokking Algorithms: An illustrated guide for programmers and other curious people](https://amzn.to/2KRgjzV)
+
+DISCLAIMER: This video and description contains affiliate links, which means that if you click on one of the product links, I’ll receive a small commission. 
+
