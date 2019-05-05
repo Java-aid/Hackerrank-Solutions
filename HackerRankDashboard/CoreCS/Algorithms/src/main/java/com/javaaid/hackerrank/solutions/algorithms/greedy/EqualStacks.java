@@ -2,7 +2,7 @@
  * 
  * Problem Statement-
  * [Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks/problem)  
- * 
+ * [Tutorial](https://youtu.be/2PO0SRpoX-g)
  */
 package com.javaaid.hackerrank.solutions.algorithms.greedy;
 
@@ -14,6 +14,55 @@ import java.util.Stack;
  *
  */
 public class EqualStacks {
+	static int equalStacks(int[] h1, int[] h2, int[] h3) {
+
+		Stack<Integer> st1 = new Stack<Integer>();
+		Stack<Integer> st2 = new Stack<Integer>();
+		Stack<Integer> st3 = new Stack<Integer>();
+
+		int st1TotalHeight = 0, st2TotalHeight = 0, st3TotalHeight = 0;
+
+		// pushing consolidated height into the stack instead of individual cylinder
+		// height
+		for (int i = h1.length - 1; i >= 0; i--) {
+			st1TotalHeight += h1[i];
+			st1.push(st1TotalHeight);
+		}
+		for (int i = h2.length - 1; i >= 0; i--) {
+			st2TotalHeight += h2[i];
+			st2.push(st2TotalHeight);
+		}
+		for (int i = h3.length - 1; i >= 0; i--) {
+			st3TotalHeight += h3[i];
+			st3.push(st3TotalHeight);
+		}
+
+		while (true) {
+
+			// If any stack is empty
+			if (st1.isEmpty() || st2.isEmpty() || st3.isEmpty())
+				return 0;
+
+			st1TotalHeight = st1.peek();
+			st2TotalHeight = st2.peek();
+			st3TotalHeight = st3.peek();
+
+			// If sum of all three stack are equal.
+			if (st1TotalHeight == st2TotalHeight && st2TotalHeight == st3TotalHeight)
+				return st1TotalHeight;
+
+			// Finding the stack with maximum sum and
+			// removing its top element.
+			if (st1TotalHeight >= st2TotalHeight && st1TotalHeight >= st3TotalHeight)
+				st1.pop();
+			else if (st2TotalHeight >= st3TotalHeight && st2TotalHeight >= st3TotalHeight)
+				st2.pop();
+			else if (st3TotalHeight >= st2TotalHeight && st3TotalHeight >= st1TotalHeight)
+				st3.pop();
+		}
+
+	}
+
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		int n1 = in.nextInt();
@@ -31,58 +80,7 @@ public class EqualStacks {
 		for (int h3_i = 0; h3_i < n3; h3_i++) {
 			h3[h3_i] = in.nextInt();
 		}
-
-		Stack<Long> st1 = new Stack<Long>();
-		Stack<Long> st2 = new Stack<Long>();
-		Stack<Long> st3 = new Stack<Long>();
-		long sum1 = 0, sum2 = 0, sum3 = 0;
-		for (int i = h1.length - 1; i >= 0; i--) {
-			sum1 += h1[i];
-			st1.push(sum1);
-		}
-		for (int i = h2.length - 1; i >= 0; i--) {
-			sum2 += h2[i];
-			st2.push(sum2);
-		}
-		for (int i = h3.length - 1; i >= 0; i--) {
-			sum3 += h3[i];
-			st3.push(sum3);
-		}
-
-		boolean found = false;
-		if (n1 <= n2 && n1 <= n3) {
-			while (!st1.isEmpty()) {
-				long top = st1.pop();
-				if (st2.contains(top) && st3.contains(top)) {
-					System.out.println(top);
-					found = true;
-					break;
-				}
-			}
-
-		} else if (n2 <= n3 && n2 <= n1) {
-			while (!st2.isEmpty()) {
-				long top = st2.pop();
-				if (st1.contains(top) && st3.contains(top)) {
-					System.out.println(top);
-					found = true;
-					break;
-				}
-			}
-
-		} else if (n3 <= n1 && n3 <= n2) {
-			while (!st3.isEmpty()) {
-				long top = st3.pop();
-				if (st2.contains(top) && st1.contains(top)) {
-					System.out.println(top);
-					found = true;
-					break;
-				}
-			}
-		}
-		if (!found) {
-			System.out.println("0");
-		}
+		System.out.println(equalStacks(h1, h2, h3));
 		in.close();
 	}
 }
