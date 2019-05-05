@@ -25,7 +25,7 @@ then you are at the right place. :)
 * [DATA STRUCTURES](#data-structures)
 * [GENERAL PROGRAMMING](#general-programming)
 * [IMPLEMENTATION](#implementation)
-* [LEARNING RESOURCES](#learning-resources)
+* [TOP 10 LEARNING RESOURCES](#top-10-learning-resources)
 
   Coding environment used- Windows 8.1, Eclipse Oxygen, JAVA 8
 
@@ -168,7 +168,7 @@ then you are at the right place. :)
 |         search          | [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem)         						   				| [SherlockAndArray.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Algorithms/src/main/java/com/javaaid/hackerrank/solutions/algorithms/search/SherlockAndArray.java)        							      			  |  [Tutorial](https://youtu.be/xPHJH8RL3mo)                                                            |
 |     Greedy Algorithms   | [Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk/problem)         						   					| [MarcsCakewalk.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Algorithms/src/main/java/com/javaaid/hackerrank/solutions/algorithms/greedy/MarcsCakewalk.java)        							      					  |                                                            |
 |     Greedy Algorithms   | [Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem)         						   							| [LuckBalance.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Algorithms/src/main/java/com/javaaid/hackerrank/solutions/algorithms/greedy/LuckBalance.java)        							      						  |                                                            |
-|     Greedy Algorithms   | [Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks/problem)         						   							| [EqualStacks.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Algorithms/src/main/java/com/javaaid/hackerrank/solutions/algorithms/greedy/EqualStacks.java)        							      						  |                                                            |
+|     Greedy Algorithms   | [Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks/problem)         						   							| [EqualStacks.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Algorithms/src/main/java/com/javaaid/hackerrank/solutions/algorithms/greedy/EqualStacks.java)        							      						  |  [Tutorial](https://youtu.be/2PO0SRpoX-g)                  |
 |     Greedy Algorithms   | [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem)         						   						| [MarkAndToys.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Algorithms/src/main/java/com/javaaid/hackerrank/solutions/algorithms/greedy/MarkAndToys.java)        							      				   		  |                                                            |
 |     Greedy Algorithms   | [Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders/problem)         						   				| [JimAndTheOrders.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Algorithms/src/main/java/com/javaaid/hackerrank/solutions/algorithms/greedy/JimAndTheOrders.java)        							      				  |                                                            |
 |     Greedy Algorithms   | [Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys/problem)         						   				| [PriyankaAndToys.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Algorithms/src/main/java/com/javaaid/hackerrank/solutions/algorithms/greedy/PriyankaAndToys.java)        							      				  |                                                            |
@@ -238,7 +238,7 @@ then you are at the right place. :)
 |      Arrays     | [Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem)                                                                             		  | [BigSorting.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/DataStructures/src/main/java/com/javaaid/hackerrank/solutions/datastructures/arrays/BigSorting.java)                                                            			  		| 															 |
 |      Arrays     | [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)                                                                         		  | [SparseArrays.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/DataStructures/src/main/java/com/javaaid/hackerrank/solutions/datastructures/arrays/SparseArrays.java)                                                        			  		| 	 														 |
 |      Arrays     | [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)                                                                         	  		  | [ArrayManipulation.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/DataStructures/src/main/java/com/javaaid/hackerrank/solutions/datastructures/arrays/ArrayManipulation.java)                                                 				| [Tutorial](https://youtu.be/hDhf04AJIRs)      	         |
-|      Stacks     | [Maximum Element](https://www.hackerrank.com/challenges/maximum-element)                                                                             		  | [MaximumElement.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/DataStructures/src/main/java/com/javaaid/hackerrank/solutions/datastructures/stacks/MaximumElement.java)                                                    			  		|       											         |
+|      Stacks     | [Maximum Element](https://www.hackerrank.com/challenges/maximum-element)                                                                             		  | [MaximumElement.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/DataStructures/src/main/java/com/javaaid/hackerrank/solutions/datastructures/stacks/MaximumElement.java)                                                    			  		| [Tutorial](https://youtu.be/CXYL8JfeN6I)      	         |
 |      Stacks     | [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets)                                                                         		  | [BalancedBrackets.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/DataStructures/src/main/java/com/javaaid/hackerrank/solutions/datastructures/stacks/BalancedBrackets.java)                                                			  		|       											         |
 |      Stacks     | [Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks/problem)                                                                           		  | [EqualStacks.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/DataStructures/src/main/java/com/javaaid/hackerrank/solutions/datastructures/stacks/EqualStacks.java)                                                          			  		| [Tutorial](https://youtu.be/2PO0SRpoX-g)			         |
 |      Stacks     | [Largest Rectangle](https://www.hackerrank.com/challenges/largest-rectangle/problem)                                                                 		  | [LargestRectangle.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/DataStructures/src/main/java/com/javaaid/hackerrank/solutions/datastructures/stacks/LargestRectangle.java)                                                			  		|       											         |
@@ -367,19 +367,32 @@ then you are at the right place. :)
 
 
 
-# LEARNING RESOURCES
+# TOP 10 LEARNING RESOURCES
 
-[Cracking the Coding Interview](https://amzn.to/2Xu9wyp)
+[Cracking the Coding Interview by Gayle Laakmann McDowell](https://amzn.to/2Xu9wyp)
 
-[Algorithms Hardcover](https://amzn.to/2Xro3uB)
+[Algorithms Hardcover by Robert Sedgewick](https://amzn.to/2Xro3uB)
+
+[The Algorithm Design Manual by Steven S S. Skiena](https://amzn.to/2BSDOS3)
+
+[Data Structures & Algorithms in Java, by Lafore (Author)](https://amzn.to/2LmLymL)
 
 [Data Structures and Algorithms Made Easy: Data Structures and Algorithmic Puzzles](https://amzn.to/2XwmE5V)
 
-[The Algorithm Design Manual](https://amzn.to/2BSDOS3)
+[Grokking Algorithms: An illustrated guide for programmers and other curious people by Aditya Bhargava](https://amzn.to/2KRgjzV)
 
-[Introduction to Algorithms](https://amzn.to/2El9XCi)
+[Dynamic Programming for Coding Interviews: A Bottom-Up approach to problem solving Kindle Edition](https://amzn.to/2GVCgZw)
 
-[Grokking Algorithms: An illustrated guide for programmers and other curious people](https://amzn.to/2KRgjzV)
+[Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, et al.](https://amzn.to/2El9XCi)
 
-DISCLAIMER: This above mentioned resources have affiliate links, which means if you buy one of the product from my links, I’ll receive a small commission. 
+[Elements of Programming Interviews in Java: The Insiders' Guide by Adnan Aziz](https://amzn.to/2V0gWGY)
 
+[Programming Interviews Exposed: Secrets to Landing Your Next Job (Wrox Professional Guides)by John Mongan](https://amzn.to/2LBHRtF)
+
+
+
+
+DISCLAIMER: This above mentioned resources have affiliate links, which means if you buy one of the product from my links, I’ll receive a small commission.
+This helps support the channel and allows us to continue to add more tutorial. Thank you for the support!
+
+*NOTE: All above shared learning resources are best of my knowledge as I have personally read all except one Introduction to Algorithms.
