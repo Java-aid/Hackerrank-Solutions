@@ -367,7 +367,7 @@ then you are at the right place. :)
 
 
 
-# TOP 10 LEARNING RESOURCES (which can take you to the next level)
+# TOP 10 LEARNING RESOURCES
 
 1)[ Cracking the Coding Interview by Gayle Laakmann McDowell](https://amzn.to/2Xu9wyp)
 
