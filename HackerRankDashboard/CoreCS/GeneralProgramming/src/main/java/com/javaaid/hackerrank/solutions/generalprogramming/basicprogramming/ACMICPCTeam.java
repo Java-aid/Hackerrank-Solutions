@@ -15,7 +15,38 @@ import java.util.Scanner;
  *
  */
 public class ACMICPCTeam {
+
+	// 1st approach
 	static int[] acmTeam(String[] topic) {
+
+		int n = topic.length;
+		BigInteger[] bi = new BigInteger[n];
+
+		for (int i = 0; i < n; i++)
+			bi[i] = new BigInteger(topic[i], 2);
+
+		int maxTopic = 0;
+		int teamCount = 0;
+
+		for (int i = 0; i < n; i++) {
+			for (int j = i + 1; j < n; j++) {
+				BigInteger iuj = bi[i].or(bi[j]);
+				int bitCount = iuj.bitCount();
+				if (bitCount > maxTopic) {
+					maxTopic = bitCount;
+					teamCount = 1;
+				} else if (bitCount == maxTopic) {
+					teamCount++;
+				}
+			}
+		}
+
+		int result[] = { maxTopic, teamCount };
+		return result;
+	}
+
+	// 2nd approach--using java BitSet class
+	static int[] acmTeamUsingBitSet(String[] topic) {
 		int teamCount = 0, maxTopic = 0;
 		int size = topic.length;
 
