@@ -2,7 +2,7 @@
  * 
  * Problem Statement-
  * [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem)
- * 
+ * [Tutorial](https://youtu.be/0THr0OGqSDY)
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 
