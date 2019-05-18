@@ -2,7 +2,7 @@
  * 
  * Problem Statement-
  * [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds)  
- * 
+ * [Tutorial](https://youtu.be/u_oUMtj7C3k) 
  */
 package com.javaaid.hackerrank.solutions.datastructures.arrays;
 

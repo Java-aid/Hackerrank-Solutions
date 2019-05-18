@@ -12,7 +12,7 @@ import java.util.Scanner;
  * @author Kanahaiya Gupta
  *
  */
-public class BonAppétit {
+public class BonAppetit {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
