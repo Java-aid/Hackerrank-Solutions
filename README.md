@@ -369,25 +369,25 @@ then you are at the right place. :)
 
 # TOP 10 LEARNING RESOURCES
 
-1)[ Cracking the Coding Interview by Gayle Laakmann McDowell](https://amzn.to/2Xu9wyp)
+1)[ Cracking the Coding Interview ](https://amzn.to/2Wd6dxB)
 
-2)[ Algorithms Hardcover by Robert Sedgewick](https://amzn.to/2Xro3uB)
+2)[ Algorithms Hardcover ](https://amzn.to/2WcmMtL)
 
-3)[ The Algorithm Design Manual by Steven S S. Skiena](https://amzn.to/2BSDOS3)
+3)[ The Algorithm Design Manual ](https://amzn.to/2WXjZlo)
 
-4)[ Data Structures & Algorithms in Java, by Lafore (Author)](https://amzn.to/2LmLymL)
+4)[ Data Structures & Algorithms in Java ](https://amzn.to/2LYaf9h)
 
-5)[ Data Structures and Algorithms Made Easy: Data Structures and Algorithmic Puzzles](https://amzn.to/2XwmE5V)
+5)[ Data Structures and Algorithms Made Easy ](https://amzn.to/2LVFEta)
 
-6)[ Grokking Algorithms: An illustrated guide for programmers and other curious people by Aditya Bhargava](https://amzn.to/2KRgjzV)
+6)[ Grokking Algorithms ](https://amzn.to/2LXvhFd)
 
-7)[ Dynamic Programming for Coding Interviews: A Bottom-Up approach to problem solving](https://amzn.to/2GVCgZw)
+7)[ Dynamic Programming for Coding Interviews ](https://amzn.to/2GVCgZw)
 
-8)[ Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, et al.](https://amzn.to/2El9XCi)
+8)[ Introduction to Algorithms ](https://amzn.to/2LWPoDq)
 
-9)[ Elements of Programming Interviews in Java: The Insiders' Guide by Adnan Aziz](https://amzn.to/2V0gWGY)
+9)[ Elements of Programming Interviews in Java ](https://amzn.to/2WTtAJZ)
 
-10)[ Programming Interviews Exposed: Secrets to Landing Your Next Job (Wrox Professional Guides)by John Mongan](https://amzn.to/2LBHRtF)
+10)[ Programming Interviews Exposed ](https://amzn.to/2LWq6Fz)
 
 
 
