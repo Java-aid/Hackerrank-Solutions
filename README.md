@@ -146,7 +146,7 @@ then you are at the right place. :)
 |         Sorting         | [Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk)                                                             | [MarcsCakewalk.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Algorithms/src/main/java/com/javaaid/hackerrank/solutions/algorithms/sorting/MarcsCakewalk.java)                                                           | 														   |
 |         Sorting         | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array)            | [MinimumAbsoluteDifferenceInAnArray.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Algorithms/src/main/java/com/javaaid/hackerrank/solutions/algorithms/sorting/MinimumAbsoluteDifferenceInAnArray.java)                 | 														   |
 |         Sorting         | [Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem)         												    | [LuckBalance.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Algorithms/src/main/java/com/javaaid/hackerrank/solutions/algorithms/sorting/LuckBalance.java)        												          | 														   |
-|         Sorting         | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)         						    | [ClimbingTheLeaderboard.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Algorithms/src/main/java/com/javaaid/hackerrank/solutions/algorithms/sorting/ClimbingTheLeaderboard.java)        							      | 														   |
+|         Sorting         | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)         						    | [ClimbingTheLeaderboard.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Algorithms/src/main/java/com/javaaid/hackerrank/solutions/algorithms/sorting/ClimbingTheLeaderboard.java)        							      |  [Tutorial](https://youtu.be/CAyXHTqBIBU)				   |
 |         Sorting         | [Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem)         						   						    | [BigSorting.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Algorithms/src/main/java/com/javaaid/hackerrank/solutions/algorithms/sorting/BigSorting.java)        							  	  						  | 	 													   |
 |         Sorting         | [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1/problem)         						 			| [InsertionSortPart1.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Algorithms/src/main/java/com/javaaid/hackerrank/solutions/algorithms/sorting/InsertionSortPart1.java)        									      |       											           |
 |         Sorting         | [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2/problem)         						 			| [InsertionSortPart2.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Algorithms/src/main/java/com/javaaid/hackerrank/solutions/algorithms/sorting/InsertionSortPart2.java)        									      |       											           |
@@ -328,7 +328,7 @@ then you are at the right place. :)
 |      Basic Programming      | [Divisible Pairs Sum](https://www.hackerrank.com/challenges/linkedin-practice-divisible-sum-pairs/problem)       		     | [DivisiblePairsSum.java](https://github.com/Java-aid/Hackerrank-Solutions/tree/master/HackerRankDashboard/CoreCS/GeneralProgramming/src/main/java/com/javaaid/hackerrank/solutions/generalprogramming/basicprogramming/DivisiblePairsSum.java)                    	|       											         |
 |      Basic Programming      | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem)                             		     | [AppendAndDelete.java](https://github.com/Java-aid/Hackerrank-Solutions/tree/master/HackerRankDashboard/CoreCS/GeneralProgramming/src/main/java/com/javaaid/hackerrank/solutions/generalprogramming/basicprogramming/AppendAndDelete.java)             		        |       											         |
 |      Basic Programming      | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)                                 			 | [PickingNumbers.java](https://github.com/Java-aid/Hackerrank-Solutions/tree/master/HackerRankDashboard/CoreCS/GeneralProgramming/src/main/java/com/javaaid/hackerrank/solutions/generalprogramming/basicprogramming/PickingNumbers.java)             		        |       											         |
-|      Basic Programming      | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)               		     | [ClimbingTheLeaderboard.java](https://github.com/Java-aid/Hackerrank-Solutions/tree/master/HackerRankDashboard/CoreCS/GeneralProgramming/src/main/java/com/javaaid/hackerrank/solutions/generalprogramming/basicprogramming/ClimbingTheLeaderboard.java)             |       											         |
+|      Basic Programming      | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)               		     | [ClimbingTheLeaderboard.java](https://github.com/Java-aid/Hackerrank-Solutions/tree/master/HackerRankDashboard/CoreCS/GeneralProgramming/src/main/java/com/javaaid/hackerrank/solutions/generalprogramming/basicprogramming/ClimbingTheLeaderboard.java)             |  [Tutorial](https://youtu.be/CAyXHTqBIBU)  		         |
 |      Basic Programming      | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem)         					      	 | [SequenceEquation.java](https://github.com/Java-aid/Hackerrank-Solutions/tree/master/HackerRankDashboard/CoreCS/GeneralProgramming/src/main/java/com/javaaid/hackerrank/solutions/generalprogramming/basicprogramming/SequenceEquation.java)					        |       											         |
 |      Basic Programming      | [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)               		    							 | [FindDigits.java](https://github.com/Java-aid/Hackerrank-Solutions/tree/master/HackerRankDashboard/CoreCS/GeneralProgramming/src/main/java/com/javaaid/hackerrank/solutions/generalprogramming/basicprogramming/FindDigits.java)           					 		|  [Tutorial](https://youtu.be/QSQRJ41xm6k)     	         |
 |      Basic Programming      | [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)               							     | [ChocolateFeast.java](https://github.com/Java-aid/Hackerrank-Solutions/tree/master/HackerRankDashboard/CoreCS/GeneralProgramming/src/main/java/com/javaaid/hackerrank/solutions/generalprogramming/basicprogramming/ChocolateFeast.java)   					        |       											         |
@@ -353,7 +353,7 @@ then you are at the right place. :)
 |:---------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------:|
 |      Brute Force      | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)                                 | [DayOfTheProgrammer.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Implementation/src/main/java/org/javaaid/hackerrank/solutions/implementation/bruteforce/DayOfTheProgrammer.java)                         	      | 														   |
 |      Brute Force      | [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem)                                                           | [Pangrams.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Implementation/src/main/java/org/javaaid/hackerrank/solutions/implementation/bruteforce/Pangrams.java)                         	      				      | 														   |
-|      Brute Force      | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/encryption/problem)                                         | [ClimbingTheLeaderboard.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Implementation/src/main/java/org/javaaid/hackerrank/solutions/implementation/bruteforce/ClimbingTheLeaderboard.java)                           | 														   |
+|      Brute Force      | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)                           | [ClimbingTheLeaderboard.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Implementation/src/main/java/org/javaaid/hackerrank/solutions/implementation/bruteforce/ClimbingTheLeaderboard.java)                           | [Tutorial](https://youtu.be/CAyXHTqBIBU)				   |
 |      Brute Force      | [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem)                               | [StringsMakingAnagrams.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Implementation/src/main/java/org/javaaid/hackerrank/solutions/implementation/bruteforce/StringsMakingAnagrams.java)                         	  | 														   |
 |      Brute Force      | [Encryption](https://www.hackerrank.com/challenges/encryption/problem)                                                       | [Encryption.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Implementation/src/main/java/org/javaaid/hackerrank/solutions/implementation/bruteforce/Encryption.java)                         	      				  | 														   |
 |      Brute Force      | [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams/problem)                                             | [MakingAnagrams.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Implementation/src/main/java/org/javaaid/hackerrank/solutions/implementation/bruteforce/MakingAnagrams.java)                         	      		  |
@@ -369,25 +369,25 @@ then you are at the right place. :)
 
 # TOP 10 LEARNING RESOURCES
 
-1)[ Cracking the Coding Interview by Gayle Laakmann McDowell](https://amzn.to/2Xu9wyp)
+1)[ Cracking the Coding Interview ](https://amzn.to/2Wd6dxB)
 
-2)[ Algorithms Hardcover by Robert Sedgewick](https://amzn.to/2Xro3uB)
+2)[ Algorithms Hardcover ](https://amzn.to/2WcmMtL)
 
-3)[ The Algorithm Design Manual by Steven S S. Skiena](https://amzn.to/2BSDOS3)
+3)[ The Algorithm Design Manual ](https://amzn.to/2WXjZlo)
 
-4)[ Data Structures & Algorithms in Java, by Lafore (Author)](https://amzn.to/2LmLymL)
+4)[ Data Structures & Algorithms in Java ](https://amzn.to/2LYaf9h)
 
-5)[ Data Structures and Algorithms Made Easy: Data Structures and Algorithmic Puzzles](https://amzn.to/2XwmE5V)
+5)[ Data Structures and Algorithms Made Easy ](https://amzn.to/2LVFEta)
 
-6)[ Grokking Algorithms: An illustrated guide for programmers and other curious people by Aditya Bhargava](https://amzn.to/2KRgjzV)
+6)[ Grokking Algorithms ](https://amzn.to/2LXvhFd)
 
-7)[ Dynamic Programming for Coding Interviews: A Bottom-Up approach to problem solving](https://amzn.to/2GVCgZw)
+7)[ Dynamic Programming for Coding Interviews ](https://amzn.to/2GVCgZw)
 
-8)[ Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, et al.](https://amzn.to/2El9XCi)
+8)[ Introduction to Algorithms ](https://amzn.to/2LWPoDq)
 
-9)[ Elements of Programming Interviews in Java: The Insiders' Guide by Adnan Aziz](https://amzn.to/2V0gWGY)
+9)[ Elements of Programming Interviews in Java ](https://amzn.to/2WTtAJZ)
 
-10)[ Programming Interviews Exposed: Secrets to Landing Your Next Job (Wrox Professional Guides)by John Mongan](https://amzn.to/2LBHRtF)
+10)[ Programming Interviews Exposed ](https://amzn.to/2LWq6Fz)
 
 
 
