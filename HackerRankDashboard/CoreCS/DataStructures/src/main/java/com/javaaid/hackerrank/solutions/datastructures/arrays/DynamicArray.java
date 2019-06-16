@@ -2,7 +2,7 @@
  * 
  * Problem Statement-
  * [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array)  
- * 
+ * [Tutorial](https://youtu.be/N0lSGQrya6s)
  */
 package com.javaaid.hackerrank.solutions.datastructures.arrays;
 
@@ -17,20 +17,30 @@ import java.util.Scanner;
  */
 public class DynamicArray {
 
-	List<Integer> list = new ArrayList<Integer>();
+	List<Integer> seq = new ArrayList<Integer>();
 	List<List<Integer>> seqList = new ArrayList<List<Integer>>();
-	int lastAns;
+	int lastAns = 0;
 
 	public DynamicArray(int N) {
 		for (int i = 0; i < N; i++) {
-			list = new ArrayList<Integer>();
-			seqList.add(list);
+			seq = new ArrayList<Integer>();
+			seqList.add(seq);
 		}
 	}
 
-	void putValue(int x, int y, int N) {
+	void appendValue(int x, int y, int N) {
 		int rowIndex = (x ^ lastAns) % N;
-		seqList.get(rowIndex).add(y);
+		List<Integer> seq = seqList.get(rowIndex);
+		seq.add(y);
+	}
+
+	private void printValue(int x, int y, int N) {
+		int colIndex = 0;
+		int rowIndex = (x ^ lastAns) % N;
+		List<Integer> seq = seqList.get(rowIndex);
+		colIndex = y % seq.size();
+		lastAns = seq.get(colIndex);
+		System.out.println(lastAns);
 	}
 
 	public static void main(String[] args) {
@@ -43,21 +53,13 @@ public class DynamicArray {
 			int x = sc.nextInt();
 			int y = sc.nextInt();
 			if (queryType == 1) {
-				da.putValue(x, y, N);
+				da.appendValue(x, y, N);
 			} else {
-				da.getValue(x, y, N);
+				da.printValue(x, y, N);
 			}
 
 		}
 		sc.close();
-	}
-
-	private void getValue(int x, int y, int N) {
-		int colIndex = 0;
-		int rowIndex = (x ^ lastAns) % N;
-		colIndex = y % seqList.get(rowIndex).size();
-		lastAns = seqList.get(rowIndex).get(colIndex);
-		System.out.println(lastAns);
 	}
 
 }
