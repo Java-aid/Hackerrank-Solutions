@@ -2,7 +2,7 @@
  * 
  * Problem Statement-
  * [Separate the Numbers](https://www.hackerrank.com/challenges/mars-exploration/problem)  
- * [Tutorial]()
+ * [Tutorial](https://youtu.be/q9d7MZpuWSE)
  * 
  */
 package com.javaaid.hackerrank.solutions.algorithms.strings;
