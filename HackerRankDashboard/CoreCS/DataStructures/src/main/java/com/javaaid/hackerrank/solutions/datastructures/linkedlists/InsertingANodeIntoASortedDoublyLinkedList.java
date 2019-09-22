@@ -19,55 +19,37 @@ public class InsertingANodeIntoASortedDoublyLinkedList {
 	}
 
 	Node SortedInsert(Node head, int data) {
-		Node header = head;
-		Node newNode = new Node();
-		newNode.data = data;
-		newNode.prev = null;
-		Node current = head;
-		Node previous = current;
+		Node temp = head;//have a copy of head, to return the DLL,after changes
+		
+		Node newNode = new Node();//create a new node
+		newNode.data = data;//add data to it
 
-		if (header == null) {
-			newNode.next = null;
+		if (head == null) {//if DLL is empty,make newNode as head
+			
+			newNode.next = null; 
 			newNode.prev = null;
-			header = newNode;
-			return header;
+			return newNode;
 
-		} else if (header.data > data) {
-			newNode.next = header;
-			header.prev = newNode;
+		} 
+		
+		if (head.data > data) {//if new_node is to be added in front of head
+			
+			newNode.next = head;
+			head.prev = newNode;
 			newNode.prev = null;
-			header = newNode;
-			return header;
-
-		} else {
-			while (current.next != null) {
-
-				if (current.data < data) {
-
-					previous = current;
-					current = current.next;
-					continue;
-				}
-				newNode.next = current;
-				current.prev = newNode;
-				previous.next = newNode;
-				newNode.prev = previous;
-
-			}
-
-			if (current.next == null && current.data > data) {
-
-				newNode.next = current;
-				current.prev = newNode;
-				previous.next = newNode;
-				newNode.prev = previous;
-			} else {
-				newNode.next = null;
-				current.next = newNode;
-				newNode.prev = current;
-			}
+			return newNode;
 
 		}
-		return header;
+		
+		
+		//in while loop have null checking as first condition to prevent NullPointerException
+		while (head.next != null && head.next.data<data) 
+			head=head.next; 
+			
+		newNode.next=head.next;
+		head.next=newNode;
+		newNode.prev=head;
+		
+		return temp;
 	}
 }
