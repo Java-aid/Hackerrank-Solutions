@@ -12,18 +12,52 @@ package com.javaaid.hackerrank.solutions.datastructures.linkedlists;
  */
 public class InsertingANodeIntoASortedDoublyLinkedList {
 
-	class Node {
-		int data;
-		Node next;
-		Node prev;
-	}
+	
+	
+     static class DoublyLinkedListNode {
+        	public int data;
+        	public DoublyLinkedListNode next;
+        	public DoublyLinkedListNode prev;
 
-	Node SortedInsert(Node head, int data) {
-		Node temp = head;//have a copy of head, to return the DLL,after changes
+        public DoublyLinkedListNode(int nodeData) {
+            this.data = nodeData;
+            this.next = null;
+            this.prev = null;
+        }
+    }
+
+    static class DoublyLinkedList {
+        public DoublyLinkedListNode head;
+        public DoublyLinkedListNode tail;
+
+        public DoublyLinkedList() {
+            this.head = null;
+            this.tail = null;
+        }
+
+	    /*   normal insert
+	    
+        public void insertNode(int nodeData) {
+            DoublyLinkedListNode node = new DoublyLinkedListNode(nodeData);
+
+            if (this.head == null) {
+                this.head = node;
+            } else {
+                this.tail.next = node;
+                node.prev = this.tail;
+            }
+
+            this.tail = node;
+        }
+	*/
+    }
+     
+	static DoublyLinkedListNode sortedInsert(DoublyLinkedListNode head, int data) {
 		
-		Node newNode = new Node();//create a new node
-		newNode.data = data;//add data to it
-
+		DoublyLinkedListNode temp=head;	//have a copy of head, to return the DLL,after the changes
+		DoublyLinkedListNode newNode = new DoublyLinkedListNode(data);//create a new node and add data to it
+		
+	//case 1: if DLL is empty
 		if (head == null) {//if DLL is empty,make newNode as head
 			
 			newNode.next = null; 
@@ -31,7 +65,8 @@ public class InsertingANodeIntoASortedDoublyLinkedList {
 			return newNode;
 
 		} 
-		
+	
+	//case 2: if new_node has to be inserted at head's position
 		if (head.data > data) {//if new_node is to be added in front of head
 			
 			newNode.next = head;
@@ -40,7 +75,8 @@ public class InsertingANodeIntoASortedDoublyLinkedList {
 			return newNode;
 
 		}
-		
+	
+	//case 3: if new_node can be added in other places except head
 		
 		//in while loop have null checking as first condition to prevent NullPointerException
 		while (head.next != null && head.next.data<data) 
@@ -52,4 +88,6 @@ public class InsertingANodeIntoASortedDoublyLinkedList {
 		
 		return temp;
 	}
+	
 }
+	
