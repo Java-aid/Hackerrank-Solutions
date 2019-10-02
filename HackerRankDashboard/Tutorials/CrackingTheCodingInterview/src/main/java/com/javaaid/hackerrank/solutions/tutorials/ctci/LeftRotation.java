@@ -20,7 +20,7 @@ public class LeftRotation {
 		int[] rotArray = new int[n];
 
 		for (int oldIndex = 0; oldIndex < n; oldIndex++) {
-			int newIndex = (oldIndex + d) % n;
+			int newIndex = (oldIndex + n - d) % n;
 			rotArray[newIndex] = a[oldIndex];
 		}
 
