@@ -367,30 +367,27 @@ then you are at the right place. :)
 
 
 
-
-
-
 # TOP 10 LEARNING RESOURCES
 
-1)[ Cracking the Coding Interview ](https://amzn.to/2Wd6dxB)
+1)[ Cracking the Coding Interview ](https://amzn.to/2LGrKJ0)
 
-2)[ Algorithms Hardcover ](https://amzn.to/2WcmMtL)
+2)[ Algorithms Hardcover ](https://amzn.to/2pIV6Ov)
 
 3)[ The Algorithm Design Manual ](https://amzn.to/2WXjZlo)
 
-4)[ Data Structures & Algorithms in Java ](https://amzn.to/2LYaf9h)
+4)[ Data Structures & Algorithms in Java ](https://amzn.to/2njeelm)
 
-5)[ Data Structures and Algorithms Made Easy ](https://amzn.to/2LVFEta)
+5)[ Data Structures and Algorithms Made Easy ](https://amzn.to/2LKty3O)
 
-6)[ Grokking Algorithms ](https://amzn.to/2LXvhFd)
+6)[ Grokking Algorithms ](https://amzn.to/2ACb6Ee)
 
-7)[ Dynamic Programming for Coding Interviews ](https://amzn.to/2GVCgZw)
+7)[ Dynamic Programming for Coding Interviews ](https://amzn.to/2M8uT3m)
 
-8)[ Introduction to Algorithms ](https://amzn.to/2LWPoDq)
+8)[ Introduction to Algorithms ](https://amzn.to/2ocetPA)
 
-9)[ Elements of Programming Interviews in Java ](https://amzn.to/2WTtAJZ)
+9)[ Elements of Programming Interviews in Java ](https://amzn.to/2M9Cu1I)
 
-10)[ Programming Interviews Exposed ](https://amzn.to/2LWq6Fz)
+10)[ Programming Interviews Exposed ](https://amzn.to/2MexWXK)
 
 
 
