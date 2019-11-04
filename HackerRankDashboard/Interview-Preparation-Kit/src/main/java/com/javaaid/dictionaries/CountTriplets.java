@@ -2,7 +2,7 @@
  * 
  * Problem Statement-
  * [Count Triplets](https://www.hackerrank.com/challenges/count-triplets-1/problem) 
- * [Tutorial]()
+ * [Tutorial](https://youtu.be/tBFZMaWP0W8)
  * 
  */
 package com.javaaid.dictionaries;
