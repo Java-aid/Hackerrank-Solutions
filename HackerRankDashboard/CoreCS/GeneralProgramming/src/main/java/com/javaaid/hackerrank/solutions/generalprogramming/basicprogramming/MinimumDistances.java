@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)  
+ * [Tutorial](https://youtu.be/BWpq-WPL1kw)
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 
@@ -11,6 +14,24 @@ import java.util.Scanner;
  *
  */
 public class MinimumDistances {
+
+	static int minimumDistances(int[] a) {
+		HashMap<Integer, Integer> hmap = new HashMap<>();
+		int minDistance = Integer.MAX_VALUE, prevIndex = 0, currentIndex = 0;
+
+		for (int i = 0; i < a.length; i++) {
+			if (hmap.containsKey(a[i])) {
+				currentIndex = i;
+				prevIndex = hmap.get(a[i]);
+				minDistance = Math.min((currentIndex - prevIndex), minDistance);
+			}
+			hmap.put(a[i], i);
+		}
+
+		return (minDistance == Integer.MAX_VALUE ? -1 : minDistance);
+
+	}
+
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
@@ -18,21 +39,7 @@ public class MinimumDistances {
 		for (int i = 0; i < n; i++) {
 			a[i] = sc.nextInt();
 		}
-		HashMap<Integer, Integer> hmap = new HashMap<>();
-		int min = Integer.MAX_VALUE, si = 0, ei = 0;
-		for (int i = 0; i < n; i++) {
-
-			if (hmap.containsKey(a[i])) {
-				ei = i;
-				si = hmap.get(a[i]);
-				if (min > (ei - si)) {
-					min = ei - si;
-				}
-			} else {
-				hmap.put(a[i], i);
-			}
-		}
-		System.out.println(min == Integer.MAX_VALUE ? -1 : min);
+		System.out.println(minimumDistances(a));
 		sc.close();
 	}
 }

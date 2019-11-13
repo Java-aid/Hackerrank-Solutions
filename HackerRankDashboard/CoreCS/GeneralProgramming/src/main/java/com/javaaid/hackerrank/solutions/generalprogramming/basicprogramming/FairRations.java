@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem)  
+ * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 

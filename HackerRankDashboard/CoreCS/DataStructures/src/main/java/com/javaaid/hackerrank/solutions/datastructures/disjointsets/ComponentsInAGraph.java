@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Components in a graph](https://www.hackerrank.com/challenges/find-the-running-median)   
+ * 
  */
 package com.javaaid.hackerrank.solutions.datastructures.disjointsets;
 

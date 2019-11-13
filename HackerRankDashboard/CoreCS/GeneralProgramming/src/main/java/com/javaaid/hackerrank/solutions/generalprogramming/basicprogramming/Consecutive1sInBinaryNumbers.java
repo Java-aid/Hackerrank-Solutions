@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Consecutive 1's in Binary Numbers](https://www.hackerrank.com/challenges/linkedin-practice-binary-numbers/problem)  
+ * [Tutorial] (https://youtu.be/bc7cxeDy308)
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 
@@ -10,27 +13,23 @@ import java.util.Scanner;
  *
  */
 public class Consecutive1sInBinaryNumbers {
+
+	public static int countConsecutive1sInBinary(int number) {
+		int count = 0;
+
+		while (number > 0) {
+			number = number & (number << 1);
+			count++;
+		}
+		return count;
+
+	}
+
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		int s = sc.nextInt();
-		String str = "";
-		while (s != 0) {
-			int r = s % 2;
-			s = s / 2;
-			str = str + r;
-		}
-		int count = 0, mCount = 0;
-		for (int i = 0; i < str.length(); i++) {
-			if (str.charAt(i) == '1') {
-				count++;
-				if (count > mCount) {
-					mCount = count;
-				}
-			} else {
-				count = 0;
-			}
-		}
-		System.out.println(mCount);
+		int number = sc.nextInt();
+		int result = countConsecutive1sInBinary(number);
+		System.out.println(result);
 		sc.close();
 	}
 

@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem) 
+ * 
  */
 package com.javaaid.hackerrank.solutions.algorithms.strings;
 

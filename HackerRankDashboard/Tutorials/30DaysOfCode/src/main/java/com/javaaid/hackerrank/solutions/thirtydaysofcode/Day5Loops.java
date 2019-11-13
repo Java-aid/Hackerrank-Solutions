@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Loops](https://www.hackerrank.com/challenges/30-loops/problem) 
+ * 
  */
 package com.javaaid.hackerrank.solutions.thirtydaysofcode;
 

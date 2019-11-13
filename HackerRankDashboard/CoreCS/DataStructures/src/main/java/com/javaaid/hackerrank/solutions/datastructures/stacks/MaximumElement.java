@@ -1,6 +1,13 @@
+/**
+ * 
+ * Problem Statement-
+ * [Maximum Element](https://www.hackerrank.com/challenges/maximum-element)    
+ * [Tutorial] (https://youtu.be/CXYL8JfeN6I)
+ */
 package com.javaaid.hackerrank.solutions.datastructures.stacks;
 
 import java.util.Scanner;
+import java.util.Stack;
 
 /**
  * 
@@ -13,35 +20,32 @@ public class MaximumElement {
 
 		Scanner sc = new Scanner(System.in);
 		int N = sc.nextInt();
-		int a[] = new int[N];
-		int b[] = new int[N];
-		int top = -1;
-		int bTop = -1;
+
+		Stack<Integer> mainStack = new Stack<>();
+		Stack<Integer> maxStack = new Stack<>();
+		maxStack.push(Integer.MIN_VALUE);
 
 		for (int i = 0; i < N; i++) {
 			int op = sc.nextInt();
 			switch (op) {
 			case 1:
 				int item = sc.nextInt();
-				a[++top] = item;
-				if (bTop >= 0) {
-					if (item >= b[bTop])
-						b[++bTop] = item;
+				mainStack.push(item);
+				int maxSoFar = maxStack.peek();
+				if (item > maxSoFar) {
+					maxStack.push(item);
 				} else {
-					b[++bTop] = item;
+					maxStack.push(maxSoFar);
 				}
-
 				break;
 			case 2:
-				item = a[top];
-				a[top--] = -1;
-				if (item == b[bTop])
-					b[bTop--] = -1;
+				mainStack.pop();
+				maxStack.pop();
 				break;
 
 			case 3:
 
-				System.out.println(b[bTop]);
+				System.out.println(maxStack.peek());
 				break;
 			}
 		}

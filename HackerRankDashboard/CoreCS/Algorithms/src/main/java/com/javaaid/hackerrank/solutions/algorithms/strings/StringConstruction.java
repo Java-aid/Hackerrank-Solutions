@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [String Construction](https://www.hackerrank.com/challenges/string-construction/problem) 
+ * 
  */
 package com.javaaid.hackerrank.solutions.algorithms.strings;
 

@@ -1,3 +1,9 @@
+/**
+ * 
+ * Problem Statement-
+ * [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets)    
+ * 
+ */
 package com.javaaid.hackerrank.solutions.datastructures.stacks;
 
 import java.util.Scanner;

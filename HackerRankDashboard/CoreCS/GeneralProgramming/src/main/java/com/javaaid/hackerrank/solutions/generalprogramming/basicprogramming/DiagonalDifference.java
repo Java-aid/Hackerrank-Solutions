@@ -1,6 +1,11 @@
+/**
+ * 
+ * Problem Statement-
+ * [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)
+ * [Tutorial](https://youtu.be/f6bTIsj9ne8) 
+ * 
+ */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
-
-import java.util.Scanner;
 
 /**
  * 
@@ -8,21 +13,14 @@ import java.util.Scanner;
  *
  */
 public class DiagonalDifference {
-	public static void main(String[] args) {
-		Scanner in = new Scanner(System.in);
-		int n = in.nextInt();
-		int a[][] = new int[n][n];
-		for (int a_i = 0; a_i < n; a_i++) {
-			for (int a_j = 0; a_j < n; a_j++) {
-				a[a_i][a_j] = in.nextInt();
-			}
-		}
+	
+	static int diagonalDifference(int[][] arr) {
 		int leftSum = 0, rightSum = 0;
+		int n = arr.length;
 		for (int i = 0; i < n; i++) {
-			leftSum += a[i][i];
-			rightSum += a[i][n - 1 - i];
+			leftSum += arr[i][i];
+			rightSum += arr[i][n - 1 - i];
 		}
-		System.out.println(Math.abs(leftSum - rightSum));
-		in.close();
+		return (Math.abs(leftSum - rightSum));
 	}
 }

@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) 
+ * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 

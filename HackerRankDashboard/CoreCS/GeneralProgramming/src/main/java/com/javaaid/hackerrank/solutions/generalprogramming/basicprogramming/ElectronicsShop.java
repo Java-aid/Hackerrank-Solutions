@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem) 
+ * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 

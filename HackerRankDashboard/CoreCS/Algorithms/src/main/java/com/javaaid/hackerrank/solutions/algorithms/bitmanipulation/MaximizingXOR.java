@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor/problem)   
+ * 
  */
 package com.javaaid.hackerrank.solutions.algorithms.bitmanipulation;
 

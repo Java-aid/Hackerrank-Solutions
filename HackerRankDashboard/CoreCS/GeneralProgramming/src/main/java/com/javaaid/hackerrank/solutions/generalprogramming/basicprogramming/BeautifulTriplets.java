@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem)   
+ * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 

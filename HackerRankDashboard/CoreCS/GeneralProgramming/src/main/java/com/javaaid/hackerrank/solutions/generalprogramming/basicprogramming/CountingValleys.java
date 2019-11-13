@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem) 
+ * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 
@@ -10,28 +13,32 @@ import java.util.Scanner;
  *
  */
 public class CountingValleys {
+
+	static int countingValleys(int n, String s) {
+
+		int valleyCounter = 0, altitude = 0;
+
+		for (int i = 0; i < n; i++) {
+			char ch = s.charAt(i);
+			if (ch == 'U') {
+				altitude++;
+				if (altitude == 0) {
+					valleyCounter++;
+				}
+
+			} else {
+
+				altitude--;
+			}
+		}
+		return valleyCounter;
+	}
+
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
 		String str = sc.next();
-		int vCount = 0, upCount = 0;
-		boolean comingFromSeeLevel = true;
-		for (int i = 0; i < n; i++) {
-			char ch = str.charAt(i);
-			if (ch == 'U') {
-				upCount++;
-			} else if (ch == 'D') {
-				upCount--;
-			}
-			if (upCount < 0 && comingFromSeeLevel) {
-				vCount++;
-				comingFromSeeLevel = false;
-			} else if (upCount >= 0) {
-				comingFromSeeLevel = true;
-			}
-
-		}
-		System.out.println(vCount);
+		System.out.println(countingValleys(n, str));
 		sc.close();
 	}
 }

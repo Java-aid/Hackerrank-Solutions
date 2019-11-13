@@ -1,3 +1,9 @@
+/**
+ * 
+ * Problem Statement-
+ * [2D Array - DS](https://www.hackerrank.com/challenges/2d-array)  
+ * 
+ */
 package com.javaaid.hackerrank.solutions.datastructures.arrays;
 
 import java.util.Scanner;

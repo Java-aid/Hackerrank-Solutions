@@ -1,3 +1,9 @@
+/**
+ * 
+ * Problem Statement-
+ * [The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray/problem) 
+ * 
+ */
 package com.javaaid.hackerrank.solutions.algorithms.dynamicprogramming;
 
 import java.util.Scanner;

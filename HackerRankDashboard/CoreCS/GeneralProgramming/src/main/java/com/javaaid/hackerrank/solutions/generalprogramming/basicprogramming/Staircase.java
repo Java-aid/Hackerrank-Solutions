@@ -1,5 +1,9 @@
 /**
  * 
+ * Problem Statement-
+ * [Staircase](https://www.hackerrank.com/challenges/staircase) 
+ * [Tutorial](https://youtu.be/gDltV7pJw7A) 
+ * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 

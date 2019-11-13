@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Bitwise AND](https://www.hackerrank.com/challenges/linkedin-practice-bitwise-and/problem)  
+ * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 

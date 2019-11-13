@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Sansa and XOR](https://www.hackerrank.com/challenges/sansa-and-xor/problem)
+ * 
  */
 package com.javaaid.hackerrank.solutions.algorithms.bitmanipulation;
 

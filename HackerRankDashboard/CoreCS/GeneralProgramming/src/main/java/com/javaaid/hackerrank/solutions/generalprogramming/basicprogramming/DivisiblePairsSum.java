@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Divisible Pairs Sum](https://www.hackerrank.com/challenges/linkedin-practice-divisible-sum-pairs/problem) 
+ * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 

@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders/problem) 
+ * 
  */
 package com.javaaid.hackerrank.solutions.algorithms.greedy;
 

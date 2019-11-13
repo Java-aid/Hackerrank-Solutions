@@ -1,3 +1,10 @@
+/**
+ * 
+ * Problem Statement-
+ * [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) 
+ * [Tutorial](https://youtu.be/iHhFPu7h7Ic) 
+ * 
+ */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 import java.util.Scanner;
 

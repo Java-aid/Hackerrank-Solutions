@@ -1,19 +1,19 @@
 /**
  * 
+ * Problem Statement-
+ * [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)     
+ * [Tutorial](https://youtu.be/MFvX3sLsHNY)   
+ * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
-
-import java.util.Scanner;
 
 /**
  * @author Kanahaiya Gupta
  *
  */
 public class TimeConversion {
-	public static void main(String[] args) {
-		Scanner in = new Scanner(System.in);
-		String time = in.next();
-		String[] str = time.split(":");
+	static String timeConversion(String s) {
+		String[] str = s.split(":");
 		int hour = Integer.parseInt(str[0]);
 
 		String min = str[1];
@@ -33,7 +33,7 @@ public class TimeConversion {
 		} else if ((hour == 12) && (period.equalsIgnoreCase("PM"))) {
 			newTimeINString = hour + ":" + min + ":" + sec;
 		}
-		System.out.println(newTimeINString);
-		in.close();
+		return newTimeINString;
 	}
+
 }

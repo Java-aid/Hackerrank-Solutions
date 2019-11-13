@@ -1,3 +1,9 @@
+/**
+ * 
+ * Problem Statement-
+ * [Merging Communities](https://www.hackerrank.com/challenges/merging-communities/problem)  
+ * 
+ */
 package com.javaaid.hackerrank.solutions.datastructures.disjointsets;
 
 import java.io.FileNotFoundException;

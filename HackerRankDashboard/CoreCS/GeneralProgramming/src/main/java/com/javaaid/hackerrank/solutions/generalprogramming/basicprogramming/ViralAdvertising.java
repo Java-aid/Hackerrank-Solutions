@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem) 
+ * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 

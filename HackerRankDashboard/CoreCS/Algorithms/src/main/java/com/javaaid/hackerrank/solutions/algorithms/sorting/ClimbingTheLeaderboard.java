@@ -1,8 +1,12 @@
 /**
  * 
+ * Problem Statement-
+ * [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)  
+ * [Tutorial](https://youtu.be/CAyXHTqBIBU)
  */
 package com.javaaid.hackerrank.solutions.algorithms.sorting;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 /**
@@ -10,38 +14,38 @@ import java.util.Scanner;
  *
  */
 public class ClimbingTheLeaderboard {
-	public static void main(String[] args) {
-		Scanner in = new Scanner(System.in);
-		int n = in.nextInt();
-		int[] scores = new int[n];
-		scores[0] = in.nextInt();
-		int k = 1, counter = 0;
-		for (int scores_i = 1; scores_i < n; scores_i++) {
-			int temp = in.nextInt();
-			if (temp != scores[k - 1]) {
-				scores[k++] = temp;
+
+	static int[] climbingLeaderboard(int[] scores, int[] alice) {
+		int n = scores.length;
+		int m = alice.length;
+
+		int res[] = new int[m];
+		int[] rank = new int[n];
+
+		rank[0] = 1;
+
+		for (int i = 1; i < n; i++) {
+			if (scores[i] == scores[i - 1]) {
+				rank[i] = rank[i - 1];
 			} else {
-				counter++;
+				rank[i] = rank[i - 1] + 1;
 			}
 		}
 
-		for (int i = scores.length - 1; i >= 0 && counter > 0; i--) {
-			counter--;
-			scores[i] = Integer.MIN_VALUE;
-		}
-		int m = in.nextInt();
-		for (int alice_i = 0; alice_i < m; alice_i++) {
-			int tmp = in.nextInt();
-			if (tmp > scores[0]) {
-				System.out.println(1);
-			} else if (tmp < scores[scores.length - 1]) {
-				System.out.println(scores.length + 1);
+		for (int i = 0; i < m; i++) {
+			int aliceScore = alice[i];
+			if (aliceScore > scores[0]) {
+				res[i] = 1;
+			} else if (aliceScore < scores[n - 1]) {
+				res[i] = rank[n - 1] + 1;
 			} else {
-				System.out.println(binarySearch(scores, tmp) + 1);
+				int index = binarySearch(scores, aliceScore);
+				res[i] = rank[index];
 
 			}
 		}
-		in.close();
+		return res;
+
 	}
 
 	private static int binarySearch(int[] a, int key) {
@@ -64,6 +68,26 @@ public class ClimbingTheLeaderboard {
 			}
 		}
 		return -1;
+	}
+
+	public static void main(String[] args) {
+		Scanner in = new Scanner(System.in);
+		int n = in.nextInt();
+		int[] scores = new int[n];
+
+		for (int i = 0; i < n; i++) {
+			scores[i] = in.nextInt();
+		}
+
+		int m = in.nextInt();
+		int[] alice = new int[m];
+
+		for (int i = 0; i < m; i++) {
+			alice[i] = in.nextInt();
+		}
+
+		int result[] = climbingLeaderboard(scores, alice);
+		System.out.println(Arrays.toString(result));
 	}
 
 }

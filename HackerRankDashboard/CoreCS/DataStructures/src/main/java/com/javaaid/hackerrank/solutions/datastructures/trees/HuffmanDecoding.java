@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)   
+ * 
  */
 package com.javaaid.hackerrank.solutions.datastructures.trees;
 

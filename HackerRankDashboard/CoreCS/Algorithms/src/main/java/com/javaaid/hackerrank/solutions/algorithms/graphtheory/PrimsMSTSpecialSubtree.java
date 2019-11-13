@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Prim's (MST) : Special Subtree](https://www.hackerrank.com/challenges/primsmstsub/problem)    
+ * 
  */
 package com.javaaid.hackerrank.solutions.algorithms.graphtheory;
 

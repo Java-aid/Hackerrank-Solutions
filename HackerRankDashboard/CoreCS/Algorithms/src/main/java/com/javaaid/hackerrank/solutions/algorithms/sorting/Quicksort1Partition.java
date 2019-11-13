@@ -1,3 +1,9 @@
+/**
+ * 
+ * Problem Statement-
+ * [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1)
+ * 
+ */
 package com.javaaid.hackerrank.solutions.algorithms.sorting;
 
 import java.util.Scanner;

@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem)               
+ * 
  */
 package com.javaaid.hackerrank.solutions.thirtydaysofcode;
 

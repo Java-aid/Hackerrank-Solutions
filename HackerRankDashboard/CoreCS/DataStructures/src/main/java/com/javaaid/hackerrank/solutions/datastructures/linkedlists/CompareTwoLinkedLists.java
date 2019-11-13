@@ -1,5 +1,8 @@
 /**
  * 
+ * Problem Statement-
+ * [Compare two linked lists](https://www.hackerrank.com/challenges/compare-two-linked-lists/problem) 
+ * 
  */
 package com.javaaid.hackerrank.solutions.datastructures.linkedlists;
 

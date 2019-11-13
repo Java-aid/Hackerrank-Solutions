@@ -1,5 +1,9 @@
 /**
  * 
+ * Problem Statement-
+ * [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)    
+ * [Tutorial](https://youtu.be/NPMxxSyE7jM)  
+ * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 
@@ -11,22 +15,20 @@ import java.util.Scanner;
  *
  */
 public class SockMerchant {
-	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);
+	static int sockMerchant(int n, int[] ar) {
 		HashSet<Integer> set = new HashSet<Integer>();
-		int M = sc.nextInt();
 		int count = 0;
-		for (int i = 0; i < M; i++) {
-			int temp = sc.nextInt();
-			if (set.contains(temp)) {
-				set.remove(temp);
+		for (int i = 0; i < n; i++) {
+			int element = ar[i];
+			if (set.contains(element)) {
+				set.remove(element);
 				count++;
 			} else {
-				set.add(temp);
+				set.add(element);
 			}
 
 		}
-		System.out.println(count);
-		sc.close();
+		return count;
+
 	}
 }
