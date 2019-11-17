@@ -2,7 +2,7 @@
  * 
  * Problem Statement-
  * [Triple sum](https://www.hackerrank.com/challenges/triple-sum/problem) 
- * [Tutorial]()
+ * [Tutorial](https://youtu.be/pVkHLciuank)
  * 
  */
 package com.javaaid.search;
