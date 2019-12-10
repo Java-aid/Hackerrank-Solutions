@@ -25,6 +25,7 @@ then you are at the right place. :)
 * [DATA STRUCTURES](#data-structures)
 * [GENERAL PROGRAMMING](#general-programming)
 * [IMPLEMENTATION](#implementation)
+* [INTERVIEW PREPARATION KIT](#interview-preparation-kit)
 * [TOP 10 LEARNING RESOURCES](#top-10-learning-resources)
 
   Coding environment used- Windows 8.1, Eclipse Oxygen, JAVA 8
@@ -195,6 +196,7 @@ then you are at the right place. :)
 |         Strings  	      | [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones/problem)         										| [GameOfThronesI.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Algorithms/src/main/java/com/javaaid/hackerrank/solutions/algorithms/strings/GameOfThronesI.java)        							     				  |                                                            |
 |         Strings  	      | [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem)         					| [SherlockAndTheValidString.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Algorithms/src/main/java/com/javaaid/hackerrank/solutions/algorithms/strings/SherlockAndTheValidString.java)        							  |                                                            |
 |         Strings  	      | [Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers/problem)         						   			| [SeparateTheNumbers.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Algorithms/src/main/java/com/javaaid/hackerrank/solutions/algorithms/strings/SeparateTheNumbers.java)        							      		  | [Tutorial](https://youtu.be/q9d7MZpuWSE)                   |
+|         Strings  	      | [PalindromeIndex](https://www.hackerrank.com/challenges/palindrome-index/problem)         						   					| [PalindromeIndex.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Algorithms/src/main/java/com/javaaid/hackerrank/solutions/algorithms/strings/PalindromeIndex.java)        							      		  	  | [Tutorial](https://youtu.be/U_5l038GR5I)                   |
 |   	 Recursion  	  | [Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem)         						   			| [RecursiveDigitSum.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Algorithms/src/main/java/com/javaaid/hackerrank/solutions/algorithms/recursion/RecursiveDigitSum.java)        							     		  |                                                            |
 |   Dynamic Programming   | [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified/problem)         						   				| [FibonacciModified.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Algorithms/src/main/java/com/javaaid/hackerrank/solutions/algorithms/dynamicprogramming/FibonacciModified.java)        							      |                                                            |
 |   Dynamic Programming   | [The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray/problem)         						   					| [TheMaximumSubarray.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Algorithms/src/main/java/com/javaaid/hackerrank/solutions/algorithms/dynamicprogramming/TheMaximumSubarray.java)        							  |                                                            |
@@ -276,7 +278,9 @@ then you are at the right place. :)
 |   Disjoint Set  | [Merging Communities](https://www.hackerrank.com/challenges/merging-communities/problem)                                                             		  | [MergingCommunities.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/DataStructures/src/main/java/com/javaaid/hackerrank/solutions/datastructures/disjointsets/MergingCommunities.java)                                      			  		|  															 |
 |   Disjoint Set  | [Components in a graph](https://www.hackerrank.com/challenges/find-the-running-median)                                                               		  | [ComponentsInAGraph.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/DataStructures/src/main/java/com/javaaid/hackerrank/solutions/datastructures/disjointsets/ComponentsInAGraph.java)                                      			  		|  															 |
 			
-			
+		
+
+		
 # GENERAL PROGRAMMING	
 
 |          Subdomain          |                                                           Challenge                                                          |                                                                                                     Solution                                                                                                                                                         |				 	  Video Explaination					 |
@@ -361,6 +365,14 @@ then you are at the right place. :)
 |      Brute Force      | [Encryption](https://www.hackerrank.com/challenges/encryption/problem)                                                       | [Encryption.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Implementation/src/main/java/org/javaaid/hackerrank/solutions/implementation/bruteforce/Encryption.java)                         	      				  | 														   |
 |      Brute Force      | [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams/problem)                                             | [MakingAnagrams.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Implementation/src/main/java/org/javaaid/hackerrank/solutions/implementation/bruteforce/MakingAnagrams.java)                         	      		  |
 
+
+
+# INTERVIEW PREPARATION KIT
+
+|       Subdomain       			  |                                                           Challenge                                                          |                                                                                                     Solution                                                                                                                                               		    |				 	  Video Explaination					 |
+|:-----------------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------:|
+|      Dictionaries and Hashmaps      | [Count Triplets](https://www.hackerrank.com/challenges/count-triplets-1)                                					 | [CountTriplets.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Interview-Preparation-Kit/src/main/java/com/javaaid/dictionaries/CountTriplets.java)                         	  										   	    | 		[Tutorial](https://youtu.be/tBFZMaWP0W8)		     |
+|      			Search			      | [Triple sum](https://www.hackerrank.com/challenges/triple-sum/problem)                                					     | [TripleSum.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Interview-Preparation-Kit/src/main/java/com/javaaid/search/TripleSum.java)                         	  										   	  			    | 		[Tutorial](https://youtu.be/pVkHLciuank)		     |
 
 
 
