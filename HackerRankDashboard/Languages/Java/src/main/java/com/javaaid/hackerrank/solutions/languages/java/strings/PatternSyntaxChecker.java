@@ -22,6 +22,7 @@ public class PatternSyntaxChecker {
 			} catch (Exception e) {
 				System.out.println("Invalid");
 			}
+			testCases--;
 		}
 		in.close();
 	}
