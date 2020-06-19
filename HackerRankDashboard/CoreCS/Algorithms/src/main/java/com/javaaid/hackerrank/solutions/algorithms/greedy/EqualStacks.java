@@ -55,7 +55,7 @@ public class EqualStacks {
 			// removing its top element.
 			if (st1TotalHeight >= st2TotalHeight && st1TotalHeight >= st3TotalHeight)
 				st1.pop();
-			else if (st2TotalHeight >= st3TotalHeight && st2TotalHeight >= st3TotalHeight)
+			else if (st2TotalHeight >= st1TotalHeight && st2TotalHeight >= st3TotalHeight)
 				st2.pop();
 			else if (st3TotalHeight >= st2TotalHeight && st3TotalHeight >= st1TotalHeight)
 				st3.pop();
