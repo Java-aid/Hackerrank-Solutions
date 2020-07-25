@@ -27,7 +27,7 @@ public class HuffmanDecoding {
 				currentRoot = currentRoot.left;
 			else
 				currentRoot = currentRoot.right;
-			if (currentRoot.left == null || currentRoot.right == null) {
+			if (currentRoot.left == null && currentRoot.right == null) {
 				System.out.print(currentRoot.data);
 				currentRoot = root;
 			}
