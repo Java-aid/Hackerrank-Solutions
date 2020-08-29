@@ -2,6 +2,7 @@
  * 
  * Problem Statement-
  * [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem) 
+ * [Tutorial](https://youtu.be/C0YaIr8_mQU) 
  * 
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
@@ -13,21 +14,18 @@ import java.util.Scanner;
  *
  */
 public class UtopianTree {
+
+	// Complete the utopianTree function below.
+	static int utopianTree(int n) {
+		return (1 << ((n >> 1) + 1)) - 1 << n % 2;
+	}
+
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int T = sc.nextInt();
-		int height = 1;
 		for (int i = 0; i < T; i++) {
-			int c = sc.nextInt();
-			for (int j = 1; j <= c; j++) {
-				if ((j & 1) == 1) {
-					height *= 2;
-				} else {
-					height++;
-				}
-			}
-			System.out.println(height);
-			height = 1;
+			int cycle = sc.nextInt();
+			System.out.println(utopianTree(cycle));
 
 		}
 		sc.close();
