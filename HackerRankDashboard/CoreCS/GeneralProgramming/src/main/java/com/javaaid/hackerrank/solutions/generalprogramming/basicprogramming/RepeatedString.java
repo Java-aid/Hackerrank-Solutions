@@ -2,7 +2,7 @@
  * 
  * Problem Statement-
  * [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem) 
- * 
+ * [Tutorial]()
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 
@@ -13,10 +13,21 @@ import java.util.Scanner;
  *
  */
 public class RepeatedString {
-	public static long getLetterCount(String word, long length) {
+
+	static long repeatedString(String s, long n) {
+		int strLength = s.length();
+		long q = 0, r = 0;
+		q = n / strLength;
+		r = n % strLength;
+		long partialStrLen = (r == 0) ? 0 : r;
+		long aCount = q * getLetterCount(s, s.length()) + getLetterCount(s, partialStrLen);
+		return aCount;
+	}
+
+	public static long getLetterCount(String s, long strLength) {
 		long count = 0;
-		for (int i = 0; i < length; i++) {
-			if (word.charAt(i) == 'a')
+		for (int i = 0; i < strLength; i++) {
+			if (s.charAt(i) == 'a')
 				count++;
 		}
 		return count;
@@ -24,14 +35,9 @@ public class RepeatedString {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		String word = sc.next();
-		int l = word.length();
-		long freq = sc.nextLong();
-		long q = 0, r = 0;
-		q = freq / l;
-		r = freq % l;
-		long length = (r == 0) ? 0 : r;
-		long aCount = q * getLetterCount(word, word.length()) + getLetterCount(word, length);
+		String s = sc.next();
+		long n = sc.nextLong();
+		long aCount = repeatedString(s, n);
 		System.out.println(aCount);
 		sc.close();
 	}
