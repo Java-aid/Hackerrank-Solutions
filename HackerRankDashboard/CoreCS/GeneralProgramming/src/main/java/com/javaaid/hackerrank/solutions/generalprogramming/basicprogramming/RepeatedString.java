@@ -2,7 +2,7 @@
  * 
  * Problem Statement-
  * [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem) 
- * [Tutorial]()
+ * [Tutorial](https://youtu.be/d5xLkTvJDWY)
  */
 package com.javaaid.hackerrank.solutions.generalprogramming.basicprogramming;
 
