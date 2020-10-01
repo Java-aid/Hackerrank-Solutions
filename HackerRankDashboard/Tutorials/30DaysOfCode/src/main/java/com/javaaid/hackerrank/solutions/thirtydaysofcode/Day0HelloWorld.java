@@ -4,6 +4,7 @@
  * [Hello, World](https://www.hackerrank.com/challenges/30-hello-world)
  * 
  */
+//No need of package on hackerrank else it will throw do comment this by putting// this package staement.
 package com.javaaid.hackerrank.solutions.thirtydaysofcode;
 
 import java.util.Scanner;
