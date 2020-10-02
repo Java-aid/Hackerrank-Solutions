@@ -11,7 +11,7 @@
  <p/>
 This repository contains <b>efficient hackerrank solutions</b> for most of the <b>hackerrank challenges</b> including <b><a href="https://www.youtube.com/c/JavaAidTutorials?sub_confirmation=1">video tutorials</b></a>. If you are looking for anyone of these things -
 
-hackerrank solutions java GitHub | hackerrank tutorial in java | hackerrank 30 days of code solutions | hackerrank algorithms solutions | hackerrank cracking the coding interview solutions | hackerrank general programming solutions | hackerrank implementation solutions | hackerrank data structures solutions in java | hackerrank algorithm solution in java | hackerrank challenges solutions | hackerrank practices solutions | hackerrank coding challenges solutions | hackerrank questions | hackerrank problems | how to solve hackerrank practice problem in java | problem solving | coding interview | coding | programming | JAVAAID | Kanahaiya Gupta 
+hackerrank solutions java GitHub | hackerrank tutorial in java | hackerrank 30 days of code solutions | hackerrank algorithms solutions | hackerrank cracking the coding interview solutions | hackerrank general programming solutions | hackerrank implementation solutions | hackerrank data structures solutions in java | hackerrank algorithm solution in java | hackerrank challenges solutions | hackerrank practices solutions | hackerrank coding challenges solutions | hackerrank questions | hackerrank problems | how to solve hackerrank practice problem in java | problem solving | coding interview | coding | programming | JAVAAID | Problem Solving with Java | Kanahaiya Gupta 
 
 then you are at the right place. :)
 
