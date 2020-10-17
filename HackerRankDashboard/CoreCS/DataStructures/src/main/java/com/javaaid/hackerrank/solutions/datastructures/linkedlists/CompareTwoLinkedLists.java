@@ -17,6 +17,9 @@ public class CompareTwoLinkedLists {
 	}
 
 	int CompareLists(Node headA, Node headB) {
+		if(headA==null && headB==null)
+		   return 1;
+		   
 		while (headA != null && headB != null) {
 			if (headA.data != headB.data) {
 				return 0;
