@@ -1,29 +1,29 @@
-/**
- * 
- */
-package com.javaaid.hackerrank.solutions.languages.java.strings;
-
-import java.util.ArrayList;
-import java.util.Collections;
 import java.util.Scanner;
 
-/**
- * @author Kanahaiya Gupta
- *
- */
-public class JavaSubstringComparisons {
-	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);
-		ArrayList<String> list = new ArrayList<String>();
-		String s = sc.next();
-		int k = sc.nextInt();
-		for (int i = 0; i <= s.length() - k; i++) {
-			String tmp = s.substring(i, k + i);
-			list.add(tmp);
-		}
-		Collections.sort(list);
-		System.out.println(list.get(0));
-		System.out.println(list.get(list.size() - 1));
-		sc.close();
-	}
+public class Solution {
+
+    public static String getSmallestAndLargest(String s, int k) {
+        String smallest = s.substring(0, k);
+        String largest  = s.substring(0, k);
+
+        for (int i = 0; i <= s.length() - k; i++) {
+            String curr = s.substring(i, i + k);
+            if (smallest.compareTo(curr) > 0){
+                smallest = curr;
+            }
+            if (largest.compareTo(curr) < 0) {
+                largest = curr;
+            }
+        }
+        return(smallest+"\n" +largest);
+    }
+
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        String s = scan.next();
+        int k = scan.nextInt();
+        scan.close();
+      
+        System.out.println(getSmallestAndLargest(s, k));
+    }
 }
