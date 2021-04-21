@@ -30,14 +30,14 @@ public class DynamicArray {
 
 	void appendValue(int x, int y, int N) {
 		int rowIndex = (x ^ lastAns) % N;
-		List<Integer> seq = seqList.get(rowIndex);
+		seq = seqList.get(rowIndex);
 		seq.add(y);
 	}
 
 	private void printValue(int x, int y, int N) {
 		int colIndex = 0;
 		int rowIndex = (x ^ lastAns) % N;
-		List<Integer> seq = seqList.get(rowIndex);
+		seq = seqList.get(rowIndex);
 		colIndex = y % seq.size();
 		lastAns = seq.get(colIndex);
 		System.out.println(lastAns);
