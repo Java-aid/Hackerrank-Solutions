@@ -18,7 +18,7 @@ then you are at the right place. :)
 <br/>
 <br/>
 
-* [30 DAYS OF CODE](#30-days-of-code)
+* [HackerRank Java Programming Solutions]([#30-days-of-code](https://www.chase2learn.com/hackerrank-java-programming-solutions/))
 * [JAVA](#java)
 * [ALGORITHMS](#algorithms)
 * [CRACKING THE CODING INTERVIEW](#cracking-the-coding-interview)
