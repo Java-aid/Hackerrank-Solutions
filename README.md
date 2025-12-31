@@ -381,27 +381,27 @@ then you are at the right place. :)
 
 
 
-# TOP 10 LEARNING RESOURCES
+# 🔥 Top 10 Must-Have Learning Resources for DSA & Interviews
 
-1)[ Must Read For Cracking the Coding Interview ](https://amzn.to/42JK3Ea)
+1) [ The Interview Bible Most Engineers Swear By ](https://amzn.to/42JK3Ea)
 
-2)[ DSA & Algorithms ](https://amzn.to/4nIBMbN)
+2) [ A Complete Guide to Mastering DSA & Algorithms ](https://amzn.to/4nIBMbN)
 
-3)[ The Algorithm Design ](https://amzn.to/4gEp4Zh)
+3) [ How Top Engineers Actually Design Algorithms ](https://amzn.to/4gEp4Zh)
 
-4)[ DSA in Java ](https://amzn.to/3IbOfWz)
+4) [ The Go-To DSA Resource for Java Developers ](https://amzn.to/3IbOfWz)
 
-5)[ DSA ](https://amzn.to/42EuKfZ)
+5) [ One Book That Simplifies Data Structures End-to-End ](https://amzn.to/42EuKfZ)
 
-6)[ Grokking Algorithms ](https://amzn.to/46isddP)
+6) [ Learn Algorithms Visually (Perfect for Beginners) ](https://amzn.to/46isddP)
 
-7)[ Good Book To Start With Dynamic Programming ](https://amzn.to/46sUKh3)
+7) [ The Best Starting Point for Dynamic Programming ](https://amzn.to/46sUKh3)
 
-8)[ Introduction to Algorithms ](https://amzn.to/46Pkkg2)
+8) [ The Gold Standard Algorithm Reference Used Worldwide ](https://amzn.to/46Pkkg2)
 
-9)[ Programming Interviews ](https://amzn.to/4pTBQrl)
+9) [ Interview-Focused Problem Solving (Real Questions) ](https://amzn.to/4pTBQrl)
 
-10)[ Programming Interviews Exposed ](https://amzn.to/4nK7XHJ)
+10) [ A No-Nonsense Guide to Cracking Programming Interviews ](https://amzn.to/4nK7XHJ)
 
 
 
