@@ -12,7 +12,8 @@
    <a href="https://www.youtube.com/c/JavaAidTutorials?sub_confirmation=1">
        <img align="right" height=85 alt="Subscribe to JavaAid Tutorials on YouTube" src="https://www.freepngimg.com/thumb/subscribe/4-2-subscribe-png-2.png">
    </a>
- </p>
+</p>
+
 This repository contains **efficient HackerRank solutions** for most **HackerRank challenges** with **[video tutorials](https://www.youtube.com/c/JavaAidTutorials?sub_confirmation=1)**.
 
 ## What You'll Find Here
