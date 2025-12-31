@@ -426,7 +426,8 @@ Useful for:
 
 
 
-DISCLAIMER: This above mentioned resources have affiliate links, which means if you buy one of the product from my links, I’ll receive a small commission.
-This helps support the channel and allows us to continue adding more tutorials. Thank you for the support!
+DISCLAIMER: This above mentioned resources have affiliate links, which means if you buy one of the product from my links, I’ll receive a small commission. This commission does not cost the customer anything extra.
+This helps support the channel and allows us to continue to add more tutorial. Thank you for the support!
+
 
 *NOTE: All above shared learning resources are best of my knowledge as I have personally read all except one Introduction to Algorithms.
