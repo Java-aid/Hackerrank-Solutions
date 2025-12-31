@@ -1,22 +1,45 @@
+# HackerRank Solutions in Java
+
+> Comprehensive collection of efficient HackerRank solutions with video tutorials for 30 Days of Code, Algorithms, Data Structures, and Interview Preparation.
+
 <p align="center">
 <a  href="https://www.facebook.com/groups/codingip">
-       <img align="left" height=85 src="https://static1.squarespace.com/static/5994a0f17131a5643f407c37/t/5bf9070c0ebbe88c3392b17c/1543047009836/facebook_button.png">
+       <img align="left" height=85 alt="Coding IP Facebook Group" src="https://static1.squarespace.com/static/5994a0f17131a5643f407c37/t/5bf9070c0ebbe88c3392b17c/1543047009836/facebook_button.png">
    </a>
    <a align="center" href="https://www.hackerrank.com/Kanahaiya">
-       <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+       <img height=85 alt="HackerRank Profile" src="https://www.hackerrank.com/favicon.ico">
    </a>
    <a href="https://www.youtube.com/c/JavaAidTutorials?sub_confirmation=1">
-       <img align="right" height=85 src="https://www.freepngimg.com/thumb/subscribe/4-2-subscribe-png-2.png">
+       <img align="right" height=85 alt="Subscribe to JavaAid Tutorials on YouTube" src="https://www.freepngimg.com/thumb/subscribe/4-2-subscribe-png-2.png">
    </a>
- <p/>
-This repository contains <b>efficient hackerrank solutions</b> for most of the <b>hackerrank challenges</b> including <b><a href="https://www.youtube.com/c/JavaAidTutorials?sub_confirmation=1">video tutorials</b></a>. If you are looking for anyone of these things -
+</p>
 
-hackerrank solutions java GitHub | hackerrank tutorial in java | hackerrank 30 days of code solutions | hackerrank algorithms solution | hackerrank cracking the coding interview solutions | hackerrank general programming solutions | hackerrank implementation solutions | hackerrank data structures solutions in java | hackerrank algorithm solution in java | hackerrank challenges solution | hackerrank practices solution | hackerrank coding challenges solutions | hackerrank questions | hackerrank problems | how to solve hackerrank practice problem in java | problem solving | coding interview | coding | programming | hackerrank interview preparation kit solution in java | problem solving with java | JAVAAID | hackerank solution | Kanahaiya Gupta 
+This repository contains **efficient HackerRank solutions** for most **HackerRank challenges** with **[video tutorials](https://www.youtube.com/c/JavaAidTutorials?sub_confirmation=1)**.
 
-then you are at the right place. :)
+## What You'll Find Here
 
-<br/>
-<br/>
+- **HackerRank solutions in Java** with clean, optimized code
+- **30 Days of Code** complete solutions
+- **Algorithms & Data Structures** tutorials
+- **Interview Preparation Kit** solutions
+- **Cracking the Coding Interview** problems solved
+- **Video explanations** for complex problems
+- **Problem-solving strategies** for coding interviews 
+
+Whether you're preparing for coding interviews, learning DSA, or solving HackerRank challenges, you'll find comprehensive solutions and explanations here.
+
+## 🔧 Helpful Tool for Coding Practice
+
+While solving HackerRank problems, outputs often get messy — especially JSON, arrays, or logs.
+
+To quickly clean and format them, I use **DataFormatterPro**:
+
+[DataFormatterPro — format JSON, CSV & logs](https://dataformatterpro.com/?utm_source=github&utm_medium=readme&utm_campaign=hackerrank_repo)
+
+Useful for:
+- Formatting JSON / CSV outputs
+- Making examples readable before submission
+- Sharing clean solutions in discussions
 
 * [30 DAYS OF CODE](#30-days-of-code)
 * [JAVA](#java)
@@ -376,37 +399,35 @@ then you are at the right place. :)
 |      			Search			      | [Triple sum](https://www.hackerrank.com/challenges/triple-sum/problem)                                					     | [TripleSum.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Interview-Preparation-Kit/src/main/java/com/javaaid/search/TripleSum.java)                         	  										   	  			    | 		[Tutorial](https://youtu.be/pVkHLciuank)		     |
 |      	String Manipulation			  | [Common Child](https://www.hackerrank.com/challenges/common-child/problem)                                					 | [CommonChild.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Algorithms/src/main/java/com/javaaid/hackerrank/solutions/algorithms/strings/CommonChild.java)                         	  								| 		[Tutorial](https://youtu.be/ItRZRx8kvwY)		     |
 
+---
 
+## 📚 Recommended Learning Resources for DSA & Interviews
 
+1) [ The Interview Bible Most Engineers Swear By ](https://amzn.to/42JK3Ea)
 
+2) [ A Complete Guide to Mastering DSA & Algorithms ](https://amzn.to/4nIBMbN)
 
+3) [ How Top Engineers Actually Design Algorithms ](https://amzn.to/4gEp4Zh)
 
-# TOP 10 LEARNING RESOURCES
+4) [ The Go-To DSA Resource for Java Developers ](https://amzn.to/3IbOfWz)
 
-1)[ Cracking the Coding Interview ](https://amzn.to/2LGrKJ0)
+5) [ One Book That Simplifies Data Structures End-to-End ](https://amzn.to/42EuKfZ)
 
-2)[ Algorithms Hardcover ](https://amzn.to/2pIV6Ov)
+6) [ Learn Algorithms Visually (Perfect for Beginners) ](https://amzn.to/46isddP)
 
-3)[ The Algorithm Design Manual ](https://amzn.to/2WXjZlo)
+7) [ The Best Starting Point for Dynamic Programming ](https://amzn.to/46sUKh3)
 
-4)[ Data Structures & Algorithms in Java ](https://amzn.to/2njeelm)
+8) [ The Gold Standard Algorithm Reference Used Worldwide ](https://amzn.to/46Pkkg2)
 
-5)[ Data Structures and Algorithms Made Easy ](https://amzn.to/2LKty3O)
+9) [ Interview-Focused Problem Solving (Real Questions) ](https://amzn.to/4pTBQrl)
 
-6)[ Grokking Algorithms ](https://amzn.to/2ACb6Ee)
-
-7)[ Dynamic Programming for Coding Interviews ](https://amzn.to/2M8uT3m)
-
-8)[ Introduction to Algorithms ](https://amzn.to/2ocetPA)
-
-9)[ Elements of Programming Interviews in Java ](https://amzn.to/2M9Cu1I)
-
-10)[ Programming Interviews Exposed ](https://amzn.to/2MexWXK)
+10) [ A No-Nonsense Guide to Cracking Programming Interviews ](https://amzn.to/4nK7XHJ)
 
 
 
 
 DISCLAIMER: This above mentioned resources have affiliate links, which means if you buy one of the product from my links, I’ll receive a small commission. This commission does not cost the customer anything extra.
 This helps support the channel and allows us to continue to add more tutorial. Thank you for the support!
+
 
 *NOTE: All above shared learning resources are best of my knowledge as I have personally read all except one Introduction to Algorithms.
