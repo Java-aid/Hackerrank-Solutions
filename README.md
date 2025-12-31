@@ -1,19 +1,32 @@
+# HackerRank Solutions in Java
+
+> Comprehensive collection of efficient HackerRank solutions with video tutorials for 30 Days of Code, Algorithms, Data Structures, and Interview Preparation.
+
 <p align="center">
 <a  href="https://www.facebook.com/groups/codingip">
-       <img align="left" height=85 src="https://static1.squarespace.com/static/5994a0f17131a5643f407c37/t/5bf9070c0ebbe88c3392b17c/1543047009836/facebook_button.png">
+       <img align="left" height=85 alt="Coding IP Facebook Group" src="https://static1.squarespace.com/static/5994a0f17131a5643f407c37/t/5bf9070c0ebbe88c3392b17c/1543047009836/facebook_button.png">
    </a>
    <a align="center" href="https://www.hackerrank.com/Kanahaiya">
-       <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+       <img height=85 alt="HackerRank Profile" src="https://www.hackerrank.com/favicon.ico">
    </a>
    <a href="https://www.youtube.com/c/JavaAidTutorials?sub_confirmation=1">
-       <img align="right" height=85 src="https://www.freepngimg.com/thumb/subscribe/4-2-subscribe-png-2.png">
+       <img align="right" height=85 alt="Subscribe to JavaAid Tutorials on YouTube" src="https://www.freepngimg.com/thumb/subscribe/4-2-subscribe-png-2.png">
    </a>
- <p/>
-This repository contains <b>efficient hackerrank solutions</b> for most of the <b>hackerrank challenges</b> including <b><a href="https://www.youtube.com/c/JavaAidTutorials?sub_confirmation=1">video tutorials</b></a>. If you are looking for anyone of these things -
+</p>
 
-hackerrank solutions java GitHub | hackerrank tutorial in java | hackerrank 30 days of code solutions | hackerrank algorithms solution | hackerrank cracking the coding interview solutions | hackerrank general programming solutions | hackerrank implementation solutions | hackerrank data structures solutions in java | hackerrank algorithm solution in java | hackerrank challenges solution | hackerrank practices solution | hackerrank coding challenges solutions | hackerrank questions | hackerrank problems | how to solve hackerrank practice problem in java | problem solving | coding interview | coding | programming | hackerrank interview preparation kit solution in java | problem solving with java | JAVAAID | hackerank solution | Kanahaiya Gupta 
+This repository contains **efficient HackerRank solutions** for most **HackerRank challenges** with **[video tutorials](https://www.youtube.com/c/JavaAidTutorials?sub_confirmation=1)**.
 
-then you are at the right place. :)
+## What You'll Find Here
+
+- **HackerRank solutions in Java** with clean, optimized code
+- **30 Days of Code** complete solutions
+- **Algorithms & Data Structures** tutorials
+- **Interview Preparation Kit** solutions
+- **Cracking the Coding Interview** problems solved
+- **Video explanations** for complex problems
+- **Problem-solving strategies** for coding interviews 
+
+Whether you're preparing for coding interviews, learning DSA, or solving HackerRank challenges, you'll find comprehensive solutions and explanations here.
 
 ## 🔧 Helpful Tool for Coding Practice
 
@@ -27,9 +40,6 @@ Useful for:
 - Formatting JSON / CSV outputs
 - Making examples readable before submission
 - Sharing clean solutions in discussions
-
-<br/>
-<br/>
 
 * [30 DAYS OF CODE](#30-days-of-code)
 * [JAVA](#java)
@@ -389,12 +399,9 @@ Useful for:
 |      			Search			      | [Triple sum](https://www.hackerrank.com/challenges/triple-sum/problem)                                					     | [TripleSum.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Interview-Preparation-Kit/src/main/java/com/javaaid/search/TripleSum.java)                         	  										   	  			    | 		[Tutorial](https://youtu.be/pVkHLciuank)		     |
 |      	String Manipulation			  | [Common Child](https://www.hackerrank.com/challenges/common-child/problem)                                					 | [CommonChild.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/CoreCS/Algorithms/src/main/java/com/javaaid/hackerrank/solutions/algorithms/strings/CommonChild.java)                         	  								| 		[Tutorial](https://youtu.be/ItRZRx8kvwY)		     |
 
+---
 
-
-
-
-
-# 🔥 Top 10 Must-Have Learning Resources for DSA & Interviews
+## 📚 Recommended Learning Resources for DSA & Interviews
 
 1) [ The Interview Bible Most Engineers Swear By ](https://amzn.to/42JK3Ea)
 
@@ -420,6 +427,6 @@ Useful for:
 
 
 DISCLAIMER: This above mentioned resources have affiliate links, which means if you buy one of the product from my links, I’ll receive a small commission.
-This helps support the channel and allows us to continue to add more tutorial. Thank you for the support!
+This helps support the channel and allows us to continue adding more tutorials. Thank you for the support!
 
 *NOTE: All above shared learning resources are best of my knowledge as I have personally read all except one Introduction to Algorithms.
