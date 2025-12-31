@@ -15,6 +15,19 @@ hackerrank solutions java GitHub | hackerrank tutorial in java | hackerrank 30 d
 
 then you are at the right place. :)
 
+## 🔧 Helpful Tool for Coding Practice
+
+While solving HackerRank problems, outputs often get messy — especially JSON, arrays, or logs.
+
+To quickly clean and format them, I use **DataFormatterPro**:
+
+[DataFormatterPro — format JSON, CSV & logs](https://dataformatterpro.com/?utm_source=github&utm_medium=readme&utm_campaign=hackerrank_repo)
+
+Useful for:
+- Formatting JSON / CSV outputs
+- Making examples readable before submission
+- Sharing clean solutions in discussions
+
 <br/>
 <br/>
 
