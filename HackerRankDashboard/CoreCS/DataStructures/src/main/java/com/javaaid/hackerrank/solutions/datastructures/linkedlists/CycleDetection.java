@@ -23,7 +23,11 @@ public class CycleDetection {
 
 		while (p1 != null && p1.next != null && p2 != null) {
 			p1 = p1.next;
-			p2 = p2.next.next;
+			p2 = p2.next;
+			if(p2==null || p1==null)
+			  return 0;
+			p2=p2.next;  
+			  
 			{
 				if (p1 == p2)
 					return 1;
